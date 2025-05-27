@@ -27,3 +27,9 @@
 - download manual de install file, go to downloads folder and execute,
 - sudo apt-get update
 - sudo apt-get install ./docker-desktop-amd64.deb
+
+# credential mng.
+- ref: https://docs.docker.com/reference/cli/docker/logout/
+- docker login -u renatobrf
+- ref: https://docs.docker.com/desktop/setup/sign-in/#credentials-management-for-linux-users
+- app password on gnome
