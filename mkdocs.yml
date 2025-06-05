@@ -5,7 +5,7 @@ nav:
     - SubMenu: 'page2.md'
   
 theme:
-  name: material
+  name: mkdocs
   font:
     text: Roboto
     code: Roboto Mono

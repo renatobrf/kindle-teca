@@ -33,3 +33,6 @@
 - docker login -u renatobrf
 - ref: https://docs.docker.com/desktop/setup/sign-in/#credentials-management-for-linux-users
 - app password on gnome
+
+# mkdocs dependecy
+- sudo apt install mkdocs
