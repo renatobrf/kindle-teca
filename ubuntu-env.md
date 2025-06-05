@@ -36,3 +36,4 @@
 
 # mkdocs dependecy
 - sudo apt install mkdocs
+- https://www.mkdocs.org/user-guide/choosing-your-theme/
