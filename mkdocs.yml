@@ -1,7 +1,8 @@
 site_name: KindleTeca on Renatobrf repo
 nav:
   - Home: 'index.md'
-  - General Information: 'page2.md'
+  - Business: 'business.md'
+  - Corporate: 'corporate.md'
   - Contacts: 'contacts.md'
   
 theme:
