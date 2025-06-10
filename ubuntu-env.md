@@ -1,11 +1,11 @@
-# creating ubuntu env.
+# creating ubuntu env
 - install visual studio code
 - extension for copilot on vscode
 
-# github-cli for ubuntu.
+# github-cli for ubuntu
 - sudo apt install gh
 
-# github desktop for ubuntu.
+# github desktop for ubuntu
 - ref: https://linux.how2shout.com/install-github-desktop-app-on-ubuntu-22-04-or-20-04-linux/
 - sudo apt update && sudo apt upgrade
 - wget -qO - https://mirror.mwt.me/shiftkey-desktop/gpgkey | gpg --dearmor | sudo tee /etc/apt/keyrings/mwt-desktop.gpg > /dev/null
@@ -13,7 +13,7 @@
 - sudo apt update
 - sudo apt install github-desktop
 
-# docker repo setup.
+# docker repo setup
 - ref: https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
 - create file install_docker.sh
 - ls -al install_docker.sh
@@ -22,13 +22,13 @@
 - sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 - sudo docker run hello-world
 
-# docker desktop for ubuntu.
+# docker desktop for ubuntu
 - ref: https://docs.docker.com/desktop/setup/install/linux/ubuntu/
 - download manual de install file, go to downloads folder and execute,
 - sudo apt-get update
 - sudo apt-get install ./docker-desktop-amd64.deb
 
-# credential mng.
+# credential mng
 - ref: https://docs.docker.com/reference/cli/docker/logout/
 - docker login -u renatobrf
 - ref: https://docs.docker.com/desktop/setup/sign-in/#credentials-management-for-linux-users
@@ -38,3 +38,25 @@
 - sudo apt install mkdocs
 - https://www.mkdocs.org/user-guide/choosing-your-theme/
 - https://www.mkdocs.org/getting-started/#creating-a-new-project
+
+# minikube
+- ref: https://phoenixnap.com/kb/install-minikube-on-ubuntu
+- sudo apt update
+- sudo apt install curl apt-transport-https
+- curl -O https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+- sudo cp minikube-linux-amd64 /usr/local/bin/minikube
+- sudo chmod 755 /usr/local/bin/minikube
+- minikube version
+- sudo snap install kubectl --classic
+- curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+- chmod +x ./kubectl
+- sudo mv ./kubectl /usr/local/bin/kubectl
+- minikube start
+- minikube ssh
+- minikube status
+- minikube addons list
+- minikube addons enable [addon_name]
+- minikube stop
+- minikube delete
+- minikube dashboard
+- minikube dashboard --url
