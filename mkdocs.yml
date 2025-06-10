@@ -3,6 +3,7 @@ nav:
   - Home: 'index.md'
   - Business: 'business.md'
   - Corporate: 'corporate.md'
+  - China: 'china.md'
   - Contacts: 'contacts.md'
   
 theme:
