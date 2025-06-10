@@ -1,11 +1,11 @@
-# creating ubuntu env
+# creating env
 - install visual studio code
 - extension for copilot on vscode
 
-# github-cli for ubuntu
+# github-cli
 - sudo apt install gh
 
-# github desktop for ubuntu
+# github desktop
 - ref: https://linux.how2shout.com/install-github-desktop-app-on-ubuntu-22-04-or-20-04-linux/
 - sudo apt update && sudo apt upgrade
 - wget -qO - https://mirror.mwt.me/shiftkey-desktop/gpgkey | gpg --dearmor | sudo tee /etc/apt/keyrings/mwt-desktop.gpg > /dev/null
@@ -22,7 +22,7 @@
 - sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 - sudo docker run hello-world
 
-# docker desktop for ubuntu
+# docker desktop
 - ref: https://docs.docker.com/desktop/setup/install/linux/ubuntu/
 - download manual de install file, go to downloads folder and execute,
 - sudo apt-get update
@@ -39,7 +39,7 @@
 - https://www.mkdocs.org/user-guide/choosing-your-theme/
 - https://www.mkdocs.org/getting-started/#creating-a-new-project
 
-# minikube
+# minikube install
 - ref: https://phoenixnap.com/kb/install-minikube-on-ubuntu
 - sudo apt update
 - sudo apt install curl apt-transport-https
@@ -51,6 +51,8 @@
 - curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
 - chmod +x ./kubectl
 - sudo mv ./kubectl /usr/local/bin/kubectl
+
+# minikube cmd
 - minikube start
 - minikube ssh
 - minikube status
