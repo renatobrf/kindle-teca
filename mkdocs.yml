@@ -8,7 +8,6 @@ nav:
   - Finance: 'finance.md'
   - Generic: 'generic.md'
   - Startup BR: 'startup_br.md'
-  - Contacts: 'contacts.md'
   
 theme:
   name: readthedocs
