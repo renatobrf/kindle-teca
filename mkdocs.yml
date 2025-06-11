@@ -4,6 +4,8 @@ nav:
   - Business: 'business.md'
   - Corporate: 'corporate.md'
   - China: 'china.md'
+  - Human: 'human.md'
+  - Generic: 'generic.md'
   - Contacts: 'contacts.md'
   
 theme:
