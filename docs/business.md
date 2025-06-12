@@ -8,3 +8,7 @@
 - Originais
 - O dilema da inovacao
 - The geek way
+
+# General
+- Os inovadores, by Walter Isaacson
+- A decodificadora, by Walter Isaacson
