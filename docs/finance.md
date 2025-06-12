@@ -4,6 +4,5 @@
 - Em nome do povo
 
 # On queue
-- 12 regras para a vida
 - O mais importante para o investidor
 - O homem mais rico da Babilonia
