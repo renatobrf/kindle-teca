@@ -1,6 +1,6 @@
 # Biography
 - Will, Will Smith
-- O que sobra, principie Harry
+- O que sobra (Spare), principie Harry
 
 # Regions
 - My good life in France, Janine Marsh
