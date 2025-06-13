@@ -13,3 +13,5 @@
 - Os inovadores, by Walter Isaacson
 - A decodificadora, by Walter Isaacson
 - 7 Powers, Hamilton Helmer
+- The new map, Daniel Yergin
+- How the world really works, Vaclav Smil
