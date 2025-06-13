@@ -1,5 +1,5 @@
 # Highlights
-- Ponto de inflexão (Wise Up), Flavio Augusto
+- Ponto de inflexão (Wise Up), by Flavio Augusto
 - Organizacoes Infinitas
 - O cientista e o executivo (iFood)
 
