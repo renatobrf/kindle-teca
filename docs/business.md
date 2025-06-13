@@ -12,3 +12,4 @@
 # General
 - Os inovadores, by Walter Isaacson
 - A decodificadora, by Walter Isaacson
+- 7 Powers, Hamilton Helmer
