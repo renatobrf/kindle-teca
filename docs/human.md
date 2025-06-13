@@ -1,6 +1,7 @@
 # Highlights
-- Mindset
-- O mesmo de sempre
+- Mindset, por Carol Dweck
+- O mesmo de sempre, por Morgan Housel
+- Dopamina, por Daniel Lieberman 
 - Rapido e devagar
 - Ruido
 
