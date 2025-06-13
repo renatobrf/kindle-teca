@@ -1,7 +1,7 @@
 # Highlights
-- Ponto de inflexão, Flavio Augusto
+- Ponto de inflexão (Wise Up), Flavio Augusto
 - Organizacoes Infinitas
-- O cientista e o executivo
+- O cientista e o executivo (iFood)
 
 # Joao Kepler
 - Inevitável
