@@ -4,6 +4,7 @@
 - Dopamina, por Daniel Lieberman 
 - Rapido e devagar
 - Ruido
+- Nexus
 
 # Leandro Karnal
 - O dilema do porco espinho
@@ -13,3 +14,4 @@
 - 12 regras para a vida
 - Fora de serie (Outliers), Malcolm Gladwell
 - Os primeiros 90 dias, Michael Watkins
+- Principios, Ray Dalio
