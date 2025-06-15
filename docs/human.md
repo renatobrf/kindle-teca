@@ -6,6 +6,10 @@
 - Ruido
 - Nexus
 
+# Disciplina  
+- Inteligência do carisma, por Heni Ozi
+- Nada pode me ferir, por David Goggins
+
 # Leandro Karnal
 - O dilema do porco espinho
 - O coracao das coisas
