@@ -1,6 +1,6 @@
 # AI
 - AI 2041
-- AI Superpowers
+- AI Superpowers (AlphaGo from Google DeepMind)
 - The coming wave
 
 # Knowledge
