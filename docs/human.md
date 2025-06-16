@@ -1,5 +1,7 @@
 # Highlights
 - Mindset, por Carol Dweck
+  - "Roma nao foi feita em um só dia"
+  - "Ninguem pode ser considerado fracassado enquanto não começa a culpar os outros"
 - O mesmo de sempre, por Morgan Housel
   - "risco é que sobra depois que voce acredita ter pensado em tudo"
   - "o mundo atual é bom em produzir riqueza, ostentacao e inveja"
