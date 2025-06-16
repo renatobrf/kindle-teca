@@ -1,6 +1,7 @@
 # Highlights
 - Mindset, por Carol Dweck
 - O mesmo de sempre, por Morgan Housel
+  - "risco é que sobra depois que voce acredita ter pensado em tudo" 
 - Dopamina, por Daniel Lieberman 
 - Rapido e devagar
 - Ruido
