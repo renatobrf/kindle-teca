@@ -1,7 +1,10 @@
 # Highlights
 - Mindset, por Carol Dweck
 - O mesmo de sempre, por Morgan Housel
-  - "risco é que sobra depois que voce acredita ter pensado em tudo" 
+  - "risco é que sobra depois que voce acredita ter pensado em tudo"
+  - "o mundo atual é bom em produzir riqueza, ostentacao e inveja"
+  - "luxo se torna necessidade em um intervalo extremamente curto"
+  - "manter o cinto apertado, o queixo erguido e a boca fechada"
 - Dopamina, por Daniel Lieberman 
 - Rapido e devagar
 - Ruido
