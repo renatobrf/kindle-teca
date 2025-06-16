@@ -19,6 +19,7 @@
 # Leandro Karnal
 - O dilema do porco espinho
 - O coracao das coisas
+- Crer ou não crer
 
 # Leadership
 - 12 regras para a vida
