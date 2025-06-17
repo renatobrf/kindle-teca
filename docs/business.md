@@ -1,13 +1,18 @@
 # AI
-- AI 2041
-- AI Superpowers (AlphaGo from Google DeepMind)
-- The coming wave
+- AI 2041, by Kai-Fu Lee
+- AI Superpowers (AlphaGo from Google DeepMind), by Kai-Fu Lee
+- The coming wave, by Mustafa Suleyman
 
 # Knowledge
 - Factfulness
+    - "decisão baseada em fatos"
 - Originais
+    - "ações de impacto"
+    - "ações de lider"
 - O dilema da inovacao
-- The geek way
+    - "inovação incremental Vs inovação de ruptura"
+- The geek way, by Andrew McAfee
+    - "speed, ownership, science, openness"
 
 # General
 - Os inovadores, by Walter Isaacson
@@ -15,3 +20,4 @@
 - 7 Powers, Hamilton Helmer
 - The new map, Daniel Yergin
 - How the world really works, Vaclav Smil
+- O vale da estranheza, por Anna Wiener
