@@ -8,7 +8,8 @@
     - "o mundo atual é bom em produzir riqueza, ostentacao e inveja"
     - "luxo se torna necessidade em um intervalo extremamente curto"
     - "manter o cinto apertado, o queixo erguido e a boca fechada"
-- Dopamina, por Daniel Lieberman 
+- Dopamina, por Daniel Lieberman
+    - "erro de previsão de recompensa"      
 - Rapido e devagar
 - Ruido
 - Nexus
