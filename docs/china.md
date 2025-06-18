@@ -8,7 +8,9 @@
 
 # BATX
 - Baidu, Alibaba, Tencent, Xiaomi
+    - WeChat
 - Por dentro do Alibaba
+    - AliPay
 - Six billion shoppers
 
 # STEM 
