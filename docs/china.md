@@ -6,10 +6,10 @@
     - "o2o, online to offline commerce"
 - Innovation lab excellence, by Richard Turrin
 
-# Retail
+# BATX (Baidu, Alibaba, Tencent, Xiaomi)
 - Por dentro do Alibaba
 - Six billion shoppers
 
-# STEM
+# STEM (Science, Tech, Engineer, Math)
 - Nuclear fusion power plant (man-made sun)
 - China one belt
