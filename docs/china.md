@@ -11,5 +11,5 @@
 - Six billion shoppers
 
 # STEM
-- China nuclear fusion power plant (man-made sun)
+- Nuclear fusion power plant (man-made sun)
 - China one belt
