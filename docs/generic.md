@@ -1,5 +1,5 @@
 # Biography
-- Will, Will Smith
+- Will Smith
 - O que sobra (Spare), principie Harry
 
 # Regions
