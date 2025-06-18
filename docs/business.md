@@ -1,6 +1,7 @@
 # AI
 - AI 2041, by Kai-Fu Lee
-- AI Superpowers (AlphaGo from Google DeepMind), by Kai-Fu Lee
+- AI Superpowers, by Kai-Fu Lee
+    - AlphaGo from Google DeepMind
 - The coming wave, by Mustafa Suleyman
 
 # Knowledge
