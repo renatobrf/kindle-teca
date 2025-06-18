@@ -7,8 +7,7 @@
 - Factfulness
     - "decisão baseada em fatos"
 - Originais
-    - "ações de impacto"
-    - "ações de lider"
+    - "ações de impacto Vs ações de lider"
 - O dilema da inovacao
     - "inovação incremental Vs inovação de ruptura"
 - The geek way, by Andrew McAfee
