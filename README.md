@@ -1,4 +1,5 @@
 # kindle-teca
+- page: https://renatobrf.github.io/kindle-teca/
 
 ## publish mkdocs linux
 - mkdocs build
