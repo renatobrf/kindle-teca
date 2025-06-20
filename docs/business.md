@@ -18,8 +18,11 @@
 
 # General
 - Os inovadores, by Walter Isaacson
+    - Ada Lovelace, Alan Turing, Bill Gates, Steve Jobs
 - A decodificadora, by Walter Isaacson
 - 7 Powers, Hamilton Helmer
 - The new map, Daniel Yergin
+    - Energy and Geopolitics
+    - America, Russia and China new map
 - How the world really works, Vaclav Smil
 - O vale da estranheza, por Anna Wiener
