@@ -22,6 +22,7 @@
 
 # Leandro Karnal
 - O dilema do porco espinho
+    - "o preço da inteligência é a solidão."
 - O coracao das coisas
 - Crer ou não crer
 
