@@ -17,3 +17,4 @@
 - Science, Tech, Engineer, Math
 - Nuclear fusion power plant (man-made sun)
 - China one belt
+- Wind and photovoltaic energy industry
