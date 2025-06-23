@@ -26,3 +26,7 @@
     - America, Russia and China new map
 - How the world really works, Vaclav Smil
 - O vale da estranheza, por Anna Wiener
+
+# Classic
+- A Startup Enxuta (The Lean Startup), by Eric Ries
+- O Estilo Startup (The startup way), by Eric Ries
