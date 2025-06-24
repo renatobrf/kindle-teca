@@ -19,5 +19,5 @@
 - Wind and photovoltaic energy industry
 - China one belt
 
-# Electric cars
+# electric Cars
 - https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China
