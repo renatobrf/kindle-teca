@@ -11,10 +11,10 @@
     - "manter o cinto apertado, o queixo erguido e a boca fechada"
 - Dopamina, por Daniel Lieberman
     - "o erro de previsão de recompensa"      
-- Rapido e devagar
+- Rapido e devagar, by Daniel Kahneman
     - "o raciocínio rapido e o pensamento analítico"
-- Ruido
-- Nexus
+- Ruido, by Daniel Kahneman
+- Nexus, by Yuval Noah
 
 # Disciplina  
 - Inteligência do carisma, por Heni Ozi
