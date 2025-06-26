@@ -6,3 +6,6 @@
 # people
 - https://x.com/allhailtwit
 - https://x.com/biesdorfer83
+
+# stamps
+- https://x.com/GermanPhilately
