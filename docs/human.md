@@ -27,7 +27,7 @@
 - Crer ou não crer
 
 # Leadership
-- 12 regras para a vida
-- Fora de serie (Outliers), Malcolm Gladwell
-- Os primeiros 90 dias, Michael Watkins
-- Principios, Ray Dalio
+- 12 regras para a vida, by Jordan Peterson
+- Fora de serie (Outliers), by Malcolm Gladwell
+- Os primeiros 90 dias, by Michael Watkins
+- Principios, by Ray Dalio
