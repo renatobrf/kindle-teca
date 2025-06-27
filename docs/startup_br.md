@@ -1,7 +1,7 @@
 # Highlights
 - Ponto de inflexão (Wise Up), by Flavio Augusto
-- Organizacoes Infinitas
-- O cientista e o executivo (iFood)
+- Organizacoes Infinitas, by Junior Borneli
+- O cientista e o executivo (iFood), by Diego Barreto
 
 # Joao Kepler
 - Inevitável
