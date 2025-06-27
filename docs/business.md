@@ -7,11 +7,11 @@
 - The coming wave, by Mustafa Suleyman
 
 # Knowledge
-- Factfulness
+- Factfulness, by Hans Rosling
     - "decisão baseada em fatos"
-- Originais
+- Originais, by Adam Grant
     - "ações de impacto Vs ações de lider"
-- O dilema da inovacao
+- O dilema da inovacao, by Clayton Christensen
     - "inovação incremental Vs inovação de ruptura"
 - The geek way, by Andrew McAfee
     - "speed, ownership, science, openness"
@@ -26,6 +26,8 @@
     - America, Russia and China new map
 - How the world really works, Vaclav Smil
 - O vale da estranheza, por Anna Wiener
+    - "todos no vale do silicio tem historias de quase sucesso"
+    - "a escalada exponencial de startups que deram certo"
 
 # Classic
 - A Startup Enxuta (The Lean Startup), by Eric Ries
