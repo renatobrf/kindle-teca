@@ -22,7 +22,7 @@
 - A decodificadora, by Walter Isaacson
     - "a inovação como produto de uma mistura de catalizadores"
     - "mapear o genoma humano, o DNA recombinante, ao premio nobel de quimica"
-    - "não brigue pela divisão dos lucros até terminar de roubar a diligência"
+    - "maxima dos negocios: não brigue pela divisão dos lucros até terminar de roubar a diligência"
 - 7 Powers, Hamilton Helmer
 - The new map, Daniel Yergin
     - Energy and Geopolitics
