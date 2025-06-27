@@ -10,7 +10,8 @@
     - "luxo se torna necessidade em um intervalo extremamente curto"
     - "manter o cinto apertado, o queixo erguido e a boca fechada"
 - Dopamina, por Daniel Lieberman
-    - "o erro de previsão de recompensa"      
+    - "o erro de previsão de recompensa"
+    - "o ciclo da dependência, a nicotina, alcool, indulgência"      
 - Rapido e devagar, by Daniel Kahneman
     - "o raciocínio rapido e o pensamento analítico"
 - Ruido, by Daniel Kahneman
