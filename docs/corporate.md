@@ -10,7 +10,7 @@
 - Onde os sonhos acontecem, by Robert Iger
 
 # Microsoft
-- Aperte o F5, Satya Nadella
+- Aperte o F5 (Hit refresh), by Satya Nadella
 - Source Code, by Bill Gates
 
 # Netflix
