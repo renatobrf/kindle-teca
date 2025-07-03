@@ -5,6 +5,7 @@
 - https://x.com/PicturesUssr
 - https://x.com/SovietPostcards
 - https://x.com/sovietvisuals
+- https://x.com/ColdWarRecords
 
 ## Ukraine
 - https://x.com/ukrainetrek
