@@ -30,5 +30,6 @@
 # Leadership
 - 12 regras para a vida, by Jordan Peterson
 - Fora de serie (Outliers), by Malcolm Gladwell
+    - 10,000 Hours rule
 - Os primeiros 90 dias, by Michael Watkins
 - Principios, by Ray Dalio
