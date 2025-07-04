@@ -19,7 +19,7 @@
 # General
 - Os inovadores, by Walter Isaacson
     - Ada Lovelace, Alan Turing, Bill Gates, Steve Jobs
-- A decodificadora, by Walter Isaacson
+- A decodificadora (The code breaker), by Walter Isaacson
     - "a inovação como produto de uma mistura de catalizadores"
     - "mapear o genoma humano, o DNA recombinante, ao premio nobel de quimica"
     - "maxima dos negocios: não brigue pela divisão dos lucros até terminar de roubar a diligência"
