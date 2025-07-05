@@ -28,6 +28,7 @@
     - Energy and Geopolitics
     - America, Russia and China new map
 - How the world really works, Vaclav Smil
+    - Energy and food production, essential materials, globalization
 - O vale da estranheza, por Anna Wiener
     - "todos no vale do silicio tem historias de quase sucesso"
     - "a escalada exponencial de startups que deram certo"
