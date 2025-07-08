@@ -1,0 +1,5 @@
+/* Make MkDocs ReadTheDocs theme use full width */
+.wy-nav-content {
+  max-width: 100% !important;
+  width: 100% !important;
+}
