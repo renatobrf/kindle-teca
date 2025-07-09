@@ -35,3 +35,5 @@
     - 10,000 Hours rule
 - Os primeiros 90 dias, by Michael Watkins
 - Principios, by Ray Dalio
+- Vitimas do criterio, by Walter Longo
+    - "paralisia por analise ou paralisia da decisao"
