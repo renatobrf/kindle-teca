@@ -16,6 +16,8 @@
     - "o raciocínio rapido e o pensamento analítico"
 - Ruido, by Daniel Kahneman
 - Nexus, by Yuval Noah
+    - "Chamamos a nossa espécie de homo sapiens – o humano sábio, mas é discutível até que ponto temos feito jus ao nome."
+    - "Apesar da quantidade espantosa de informação a nossa disposição, somos tão suscetíveis a fantasia e a ilusão quanto nossos ancestrais antigos."
 
 # Disciplina  
 - Inteligência do carisma, por Heni Ozi
