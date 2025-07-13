@@ -12,6 +12,7 @@ nav:
   
 theme:
   name: readthedocs
+  locale: en
   logo: 'https://raw.githubusercontent.com/renatobrf/kindle-teca/main/docs/icons/base-icon-small.png'
   favicon: 'https://raw.githubusercontent.com/renatobrf/kindle-teca/main/docs/favicon.ico'
   prev_next_buttons_location: none
