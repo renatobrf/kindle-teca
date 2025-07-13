@@ -24,7 +24,7 @@
     - "mapear o genoma humano, o DNA recombinante, ao premio nobel de quimica"
     - "maxima dos negocios: não brigue pela divisão dos lucros até terminar de roubar a diligência"
 - 7 Powers, Hamilton Helmer
-    - Scale and network, Branding and process, costs and resources, business model
+    - Scale and network, Branding and process, Costs and resources, Business model
 - The new map, Daniel Yergin
     - Energy and Geopolitics
     - America, Russia and China new map
