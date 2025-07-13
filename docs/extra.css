@@ -15,3 +15,6 @@
     -webkit-transform: none;
     transform: none;   
 }
+.md-grid {
+  max-width: 1440px; 
+}
