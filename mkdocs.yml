@@ -14,6 +14,7 @@ theme:
   name: readthedocs
   logo: 'https://raw.githubusercontent.com/renatobrf/kindle-teca/main/docs/icons/base-icon-small.png'
   favicon: 'https://raw.githubusercontent.com/renatobrf/kindle-teca/main/docs/favicon.ico'
+  prev_next_buttons_location: none
   extra_css:
     - extra.css
   icon_links:
