@@ -14,5 +14,5 @@
 - sudo apt install python3.12-venv
 - pip --version
 - python -m venv venv
-- source venv/bin/activate
+- source venv/bin/activate (at project folder)
 - pip install mkdocs-material
