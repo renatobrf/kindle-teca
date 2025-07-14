@@ -1,4 +1,4 @@
-site_name: KindleTeca on Renatobrf repo
+site_name: Project KindleTeca
 nav:
   - Home: 'index.md'
   - Business: 'business.md'
@@ -11,7 +11,7 @@ nav:
   - Startup BR: 'startup_br.md'
   
 theme:
-  name: readthedocs
+  name: material
   locale: en
   logo: 'https://raw.githubusercontent.com/renatobrf/kindle-teca/main/docs/icons/base-icon-small.png'
   favicon: 'https://raw.githubusercontent.com/renatobrf/kindle-teca/main/docs/favicon.ico'
