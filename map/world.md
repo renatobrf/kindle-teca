@@ -1,3 +1,5 @@
+This is a list of countries and major cities I’ve visited in recent years, exploring their history and culture as meaningful milestones.
+
 # Europe
 - Austria
     - 2018: Salzburg, Innsbruck
