@@ -8,7 +8,7 @@ This is a list of countries and major cities I’ve visited in recent years, exp
 - France
     - 2024: Paris, Rouen, Dunkirk
 - Germany
-    - 2018: Frankfurt, Berlin, Munich, Sttutgart
+    - 2018: Frankfurt, Berlin, Munich, Nuremberg, Sttutgart
 
 # North America
 - Canada
