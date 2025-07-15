@@ -1,4 +1,4 @@
-# Highlights
+## Highlights
 - Mindset, por Carol Dweck
     - "Roma nao foi feita em um só dia"
     - "Ninguem pode ser considerado fracassado enquanto não começa a culpar os outros"
@@ -19,17 +19,17 @@
     - "Chamamos a nossa espécie de homo sapiens – o humano sábio, mas é discutível até que ponto temos feito jus ao nome."
     - "Apesar da quantidade espantosa de informação a nossa disposição, somos tão suscetíveis a fantasia e a ilusão quanto nossos antigos ancestrais."
 
-# Disciplina  
+## Disciplina  
 - Inteligência do carisma, por Heni Ozi
 - Nada pode me ferir, por David Goggins
 
-# Leandro Karnal
+## Leandro Karnal
 - O dilema do porco espinho
     - "o preço da inteligência é a solidão."
 - O coracao das coisas
 - Crer ou não crer
 
-# Leadership
+## Leadership
 - 12 regras para a vida, by Jordan Peterson
 - Fora de serie - [Outliers](https://en.wikipedia.org/wiki/Outliers_(book)), by Malcolm Gladwell
     - 10,000 Hours rule

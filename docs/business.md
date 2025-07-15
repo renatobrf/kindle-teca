@@ -1,4 +1,4 @@
-# AI
+## AI
 - AI 2041, by Kai-Fu Lee
     - LLMs, autonomous cars, quantum computing
     - Creativity, empathy, dexterity
@@ -6,7 +6,7 @@
     - AlphaGo from Google DeepMind
 - The coming wave, by Mustafa Suleyman
 
-# Knowledge
+## Knowledge
 - Factfulness, by Hans Rosling
     - "decisão baseada em fatos"
 - Originais, by Adam Grant
@@ -16,7 +16,7 @@
 - The geek way, by Andrew McAfee
     - "speed, ownership, science, openness"
 
-# General
+## General
 - Os inovadores, by Walter Isaacson
     - Ada Lovelace, Alan Turing, Bill Gates, Steve Jobs
 - A decodificadora (The code breaker), by Walter Isaacson
@@ -34,6 +34,6 @@
     - "todos no vale do silicio tem historias de quase sucesso"
     - "a escalada exponencial de startups que deram certo"
 
-# Classic
+## Classic
 - A Startup Enxuta (The Lean Startup), by Eric Ries
 - O Estilo Startup (The startup way), by Eric Ries

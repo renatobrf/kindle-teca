@@ -1,20 +1,20 @@
-# Amazon
+## Amazon
 - As cartas de Bezos, by Steve Anderson
 - A loja de tudo, by Brad Stone
 - Amazon sem limites, by Brad Stone
 
-# Apple
+## Apple
 - Steve Jobs, by Walter Isaacson
 
-# Disney
+## Disney
 - Onde os sonhos acontecem, by Robert Iger
 
-# Microsoft
+## Microsoft
 - Aperte o F5 (Hit refresh), by Satya Nadella
 - Source Code, by Bill Gates
 
-# Netflix
+## Netflix
 - A regra 'e nao ter regras, by Reed Hastings
 
-# X
+## X
 - Elon Musk, by Walter Isaacson
