@@ -1,25 +1,29 @@
 This is a list of countries and major cities I’ve visited in recent years, exploring their history and culture as meaningful milestones.
 
 # Europe
-- Austria
+- Austria and Germany
     - 2018: Salzburg, Innsbruck
-- Belgium
-    - 2024: Bruges, Bruxels
-- France
-    - 2024: Paris, Rouen, Dunkirk
-- Germany
     - 2018: Frankfurt, Berlin, Munich, Nuremberg, Sttutgart
+        - 2w, audi a5
+- Belgium and France
+    - 2024: Bruges, Bruxels      
+    - 2024: Paris, Rouen, Dunkirk
+        - 2w, vw golf
 
 # North America
 - Canada
     - 2017: Toronto, Ottawa, Montreal, Quebec City
+        - 2w, bmw x5
 - US
     - 2013: Orlando, Atlanta, Birmingham, New Orleans
         - 2w, rental toyota corolla
     - 2014: Los Angeles, Las Vegas, Salt Lake City, Portland, San Francisco
+        - 3w, rental chevy impala
     - 2016: New York City, Philadelfia, Washington DC, Pittsburg, Niagara, Boston
+        - 3w, rental nissan altima
     - 2022: Miami, Orlando, Tallahassee, Atlanta
-    - 2025: Las Vegas
+        - 2w, rental vw passat
+    - 2025: Las Vegas  
   
 # South America
 - Argentina
@@ -27,3 +31,4 @@ This is a list of countries and major cities I’ve visited in recent years, exp
 - Brazil, my nation
 - Chile
     - 2024: Santiago
+        - 1w, gac emzoom
