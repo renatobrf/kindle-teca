@@ -4,16 +4,16 @@ This is a list of countries and major cities I’ve visited in recent years, exp
 - Austria and Germany
     - 2018: Salzburg, Innsbruck
     - 2018: Frankfurt, Berlin, Munich, Nuremberg, Sttutgart
-        - 2w, audi a5
+        - 2w, rental audi a5
 - Belgium and France
     - 2024: Bruges, Bruxels      
     - 2024: Paris, Rouen, Dunkirk
-        - 2w, vw golf
+        - 2w, rental vw golf
 
 # North America
 - Canada
     - 2017: Toronto, Ottawa, Montreal, Quebec City
-        - 2w, bmw x5
+        - 2w, rental bmw x5
 - US
     - 2013: Orlando, Atlanta, Birmingham, New Orleans
         - 2w, rental toyota corolla
