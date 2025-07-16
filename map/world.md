@@ -15,6 +15,7 @@ This is a list of countries and major cities I’ve visited in recent years, exp
     - 2017: Toronto, Ottawa, Montreal, Quebec City
 - US
     - 2013: Orlando, Atlanta, Birmingham, New Orleans
+        - 2w, rental toyota corolla
     - 2014: Los Angeles, Las Vegas, Salt Lake City, Portland, San Francisco
     - 2016: New York City, Philadelfia, Washington DC, Pittsburg, Niagara, Boston
     - 2022: Miami, Orlando, Tallahassee, Atlanta
