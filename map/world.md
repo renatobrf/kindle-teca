@@ -31,4 +31,4 @@ This is a list of countries and major cities I’ve visited in recent years, exp
 - Brazil, my nation
 - Chile
     - 2024: Santiago
-        - 1w, gac emzoom
+        - 1w, rental gac emzoom
