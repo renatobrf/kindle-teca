@@ -23,7 +23,7 @@
 - Inteligência do carisma, por Heni Ozi
 - Nada pode me ferir, por David Goggins
 - Mais esperto que o diabo, por Napoleon Hill
-    - "Ter objetivos claros, foco no longo prazo, ser persistente, aceitar derrotas momentâneas"
+    - "ter objetivos claros, foco no longo prazo, ser persistente, aceitar derrotas momentâneas"
     - "armadilhas de alienação e principios da psicologia"
     - "a luta entre dois lobos"
 
