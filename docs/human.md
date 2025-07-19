@@ -22,6 +22,7 @@
 ## Disciplina  
 - Inteligência do carisma, por Heni Ozi
 - Nada pode me ferir, por David Goggins
+- Mais esperto que o diabo, por Napoleon Hill
 
 ## Leandro Karnal
 - O dilema do porco espinho
