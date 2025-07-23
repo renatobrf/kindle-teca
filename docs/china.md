@@ -10,7 +10,7 @@
 - Baidu, Alibaba, Tencent, Xiaomi
     - WeChat
 - Por dentro do Alibaba, by Porter Erisman
-    - AliPay
+    - AliPay and marketplace
 - Six billion shoppers, by Porter Erisman
 
 ## STEM 
