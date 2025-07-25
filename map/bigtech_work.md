@@ -8,4 +8,4 @@
 
 # Architecture products
 - migrations, modernization and automations
-- roadmap
+- POCs and roadmaps
