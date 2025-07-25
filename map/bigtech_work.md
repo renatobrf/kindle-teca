@@ -8,4 +8,5 @@
 # Architecture products
 - migrations
 - modernization
+- automations
 - roadmap
