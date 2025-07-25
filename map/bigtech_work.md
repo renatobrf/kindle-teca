@@ -7,7 +7,5 @@
 - content builder: learning sessions
 
 # Architecture products
-- migrations
-- modernization
-- automations
+- migrations, modernization and automations
 - roadmap
