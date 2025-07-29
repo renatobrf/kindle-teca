@@ -4,7 +4,7 @@
 - high skills: your team members are specialists on their areas
 - solve problems: capabilities to work by yourself
 - continuous learning: learn, unlearn and relearn
-- content builder: learning sessions
+- content builder: learning sessions, hands-on
 
 # Architecture products
 - migrations, modernization and automations
