@@ -25,11 +25,13 @@ This is a list of countries and major cities I’ve visited in recent years, exp
         - 3w, rental nissan altima
     - 2022: Miami, Orlando, Tallahassee, Atlanta
         - 2w, rental vw passat
-    - 2025: Las Vegas  
+    - 2025: Las Vegas
+        - 1w, just cabs  
   
 # South America
 - Argentina
     - 2018: Buenos Aires
+        - 1w, cabs and subway
 - Brazil, my nation
 - Chile
     - 2024: Santiago
