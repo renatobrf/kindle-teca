@@ -12,3 +12,4 @@
 
 ## Challenges
 - the office fosters intense competition among teams, and often even among members of the same team, as they strive to achieve their goals. Working in a hostile environment, surrounded by difficult personalities, is part of our daily routine.
+- an endless workweek awaits - you won’t stop working as you strive to meet deliverables across multiple projects, each with its own complexities. The pressure to achieve these goals will be constant.
