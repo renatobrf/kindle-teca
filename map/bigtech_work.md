@@ -7,7 +7,8 @@
 - content builder: learning sessions, hands-on
 
 ## Architecture products
-- migrations, modernization and automations
+- Migrations, modernization and automations
+- Integration and updating of legacy systems as well customizations
 - POCs and roadmaps
 
 ## Challenges
