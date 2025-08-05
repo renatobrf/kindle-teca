@@ -12,5 +12,5 @@
 - Develop proof-of-concepts (POCs) and strategic roadmaps.
 
 ## Challenges
-- the office fosters intense competition among teams, and often even among members of the same team, as they strive to achieve their goals. Working in a hostile environment, surrounded by difficult personalities, is part of our daily routine.
-- an endless workweek awaits - you won’t stop working as you strive to meet deliverables across multiple projects, each with its own complexities. The pressure to achieve these goals will be constant.
+- The environment is highly competitive, with intense pressure both between and within teams to achieve ambitious goals. Working in a hostile environment, surrounded by difficult personalities, is part of our daily routine.
+- Expect a demanding workload, managing deliverables for multiple complex projects at once. The pressure to meet deadlines and targets is constant.
