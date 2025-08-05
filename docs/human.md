@@ -33,6 +33,9 @@
 - O coracao das coisas
 - Crer ou não crer
 
+## Clovis de Barros
+- Projeto de vida
+
 ## Leadership
 - 12 regras para a vida, by Jordan Peterson
 - Fora de serie - [Outliers](https://en.wikipedia.org/wiki/Outliers_(book)), by Malcolm Gladwell
