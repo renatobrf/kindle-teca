@@ -10,5 +10,5 @@
 - migrations, modernization and automations
 - POCs and roadmaps
 
-## Highlights
+## Challenges
 - the office fosters intense competition among teams, and often even among members of the same team, as they strive to achieve their goals. Working in a hostile environment, surrounded by difficult personalities, is part of our daily routine.
