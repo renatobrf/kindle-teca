@@ -13,6 +13,6 @@
 ## extra themes
 - sudo apt install python3.12-venv
 - pip --version
-- python -m venv venv
+- python3 -m venv venv
 - source venv/bin/activate (at project folder)
 - pip install mkdocs-material
