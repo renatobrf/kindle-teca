@@ -1,4 +1,4 @@
-# kindle-teca
+# kindle-teca 📖
 - published: https://renatobrf.github.io/kindle-teca/
 
 ## publish mkdocs linux
