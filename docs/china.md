@@ -16,8 +16,6 @@
 ## STEM 
 - Science, Tech, Engineer, Math
 - Nuclear fusion power plant (man-made sun)
-- Wind and photovoltaic energy industry
+- Wind and photovoltaic energy 
 - China one belt
-
-## electric Cars
-- [wiki](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
+- Electric cars [wiki](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
