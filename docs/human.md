@@ -35,6 +35,8 @@
 
 ## Clovis de Barros
 - Projeto de vida
+    - ser feliz é desenhar que o presente continue sempre presente.
+    - estar de corpo e mente no mesmo lugar.
 
 ## Leadership
 - 12 regras para a vida, by Jordan Peterson
