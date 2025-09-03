@@ -5,6 +5,7 @@
     - "A vida vai te acordar na base do tapa."
     - "Estar no lugar certo 'e tao importante quanto estar com as pessoas certas."
 - O que sobra (Spare), principie Harry
+- Lebron James, por Jeff Benedict
 
 ## Regions
 - My good life in France, Janine Marsh
