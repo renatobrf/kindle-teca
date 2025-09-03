@@ -37,6 +37,7 @@
 - Projeto de vida
     - ser feliz é desenhar que o presente continue sempre presente.
     - estar de corpo e mente no mesmo lugar.
+    - não raro, a hipocrisia se transforma em hábito.
 
 ## Leadership
 - 12 regras para a vida, by Jordan Peterson
