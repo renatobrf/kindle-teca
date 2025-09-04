@@ -6,9 +6,9 @@ nav:
   - China: 'china.md'
   - Finance: 'finance.md'
   - Human: 'human.md'  
-  - People: 'generic.md'
+  - People: 'people.md'
   - Political: 'political.md'  
-  - Startup BR: 'startup_br.md'
+  - Startup: 'startup.md'
   
 theme:
   name: material
