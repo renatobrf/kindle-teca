@@ -6,16 +6,16 @@
     - "todos no vale do silicio tem historias de quase sucesso"
     - "a escalada exponencial de startups que deram certo"
 
-## Joao Kepler
+## Joao Kepler (BR)
 - Inevitável
 - O poder do equity
 - Smart money
 
-## Mauricio Benvenutti
+## Mauricio Benvenutti (BR)
 - Audaz
 - Desobedeça
 - Incansáveis
 
 ## Eric Ries
 - A Startup Enxuta (The Lean Startup)
-- O Estilo Startup (The startup way)
+- O Estilo Startup (The Startup Way)

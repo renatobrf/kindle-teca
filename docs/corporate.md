@@ -14,7 +14,7 @@
 - Source Code, by Bill Gates
 
 ## Netflix
-- A regra 'e nao ter regras, by Reed Hastings
+- A regra 'e nao ter regras (No Rule Rules), by Reed Hastings
 
 ## X
 - Elon Musk, by Walter Isaacson

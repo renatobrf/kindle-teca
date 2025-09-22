@@ -8,9 +8,8 @@
 
 ## BATX
 - Baidu, Alibaba, Tencent, Xiaomi
-    - WeChat
-- Por dentro do Alibaba, by Porter Erisman
-    - AliPay and marketplace
+    - WeChat and AliPay
+- Por dentro do Alibaba, by Porter Erisman    
 - Six billion shoppers, by Porter Erisman
 
 ## STEM 
@@ -18,4 +17,4 @@
 - Nuclear fusion power plant (man-made sun)
 - Wind and photovoltaic energy 
 - China one belt
-- Electric cars [wiki](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
+- Electric cars - [wiki](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)

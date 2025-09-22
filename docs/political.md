@@ -3,11 +3,13 @@
 - A revolucao dos bichos, Orwell
 - 1984, Orwell
 
-## Cold War
+## WWII and Cold War
 - Checkmate in Berlin, by Giles Milton
 - Ministry of ungentlemanly warfare, by Giles Milton
+- D-Day, by Giles Milton
 
 ## Geopolitical
-- The new map, Daniel Yergin
+- New Cold Wars, by David Sanger
+- The new map, by Daniel Yergin
     - Energy and Geopolitics
     - America, Russia and China new map
