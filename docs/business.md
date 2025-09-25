@@ -23,7 +23,11 @@
     - "a inovação como produto de uma mistura de catalizadores"
     - "mapear o genoma humano, o DNA recombinante, ao premio nobel de quimica"
     - "maxima dos negocios: não brigue pela divisão dos lucros até terminar de roubar a diligência"
-- 7 Powers, Hamilton Helmer
+- 7 Powers, by Hamilton Helmer
     - Scale and network, Branding and process, Costs and resources, Business model
-- How the world really works, Vaclav Smil
+- How the world really works, by Vaclav Smil
     - Energy and food production, essential materials, globalization
+
+## Simon Sinek
+- O jogo infinito (The inifite game)
+    - Capacidade de se manter calmo sob pressao.    

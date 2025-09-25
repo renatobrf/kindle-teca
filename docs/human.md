@@ -15,6 +15,7 @@
 
 ## Disciplina  
 - Inteligência do carisma, por Heni Ozi
+    - a inteligência emocional, social e contextual.
 - Nada pode me ferir, por David Goggins
 - Mais esperto que o diabo, por Napoleon Hill
     - "Ter objetivos claros, foco no longo prazo, ser persistente, aceitar derrotas momentâneas."
