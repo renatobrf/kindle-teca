@@ -10,6 +10,6 @@
 
 ## Geopolitical
 - New Cold Wars, by David Sanger
-- The new map, by Daniel Yergin
+- The New Map, by Daniel Yergin
     - Energy and Geopolitics
     - America, Russia and China new map
