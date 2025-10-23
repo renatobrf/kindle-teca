@@ -9,7 +9,7 @@ This is a list of countries and major cities I’ve visited in recent years, exp
     - 2024: Paris, Rouen, Dunkirk
         - 2w, rental vw golf
 - Germany
-    - 2018: Frankfurt, Berlin, Munich, Nuremberg, Sttutgart
+    - 2018: Frankfurt, Berlin, Dresden, Munich, Nuremberg, Sttutgart
         - 2w, rental audi a5
   
 # North America
