@@ -1,5 +1,5 @@
 ## Highlights
-- Showman (Zelenski), by Simon Shuster
+- Showman (*Zelensky*), by Simon Shuster
 - A revolucao dos bichos, Orwell
 - 1984, Orwell
 
