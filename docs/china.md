@@ -1,3 +1,5 @@
+# China
+
 ## Highlights
 - O poder da China, by Ricardo Geromel
     - "996 work model"
@@ -14,7 +16,7 @@
 
 ## STEM 
 - Science, Tech, Engineer, Math
-- Nuclear fusion power plant (man-made sun)
+- Nuclear fusion power plant (*man-made sun*)
 - Wind and photovoltaic energy 
 - China one belt
-- Electric cars - [wiki](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
+- Electric [cars](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)

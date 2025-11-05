@@ -3,11 +3,11 @@ nav:
   - Home: 'index.md'
   - Business: 'business.md'
   - Corporate: 'corporate.md'
-  - China: 'china.md'
   - Finance: 'finance.md'
   - Human: 'human.md'  
   - People: 'people.md'
   - Political: 'political.md'  
+  - Resilient: 'china.md'
   - Startup: 'startup.md'
   
 theme:

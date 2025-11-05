@@ -10,11 +10,11 @@
 - Onde os sonhos acontecem, by Robert Iger
 
 ## Microsoft
-- Aperte o F5 (Hit refresh), by Satya Nadella
+- Aperte o F5 (*Hit refresh*), by Satya Nadella
 - Source Code, by Bill Gates
 
 ## Netflix
-- A regra 'e nao ter regras (No Rule Rules), by Reed Hastings
+- A regra é não ter regras (*No Rule Rules*), by Reed Hastings
 
 ## X
 - Elon Musk, by Walter Isaacson
