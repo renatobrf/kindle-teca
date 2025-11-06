@@ -16,7 +16,7 @@ This is a list of countries and major cities I’ve visited in recent years, exp
 - Canada
     - 2017: Toronto, Ottawa, Montreal, Quebec City
         - 2 weeks, rental bmw x5
-- US
+- USA
     - 2013: Orlando, Atlanta, Birmingham, New Orleans
         - 2 weeks, rental toyota corolla
     - 2014: Los Angeles, Las Vegas, Salt Lake City, Portland, San Francisco
