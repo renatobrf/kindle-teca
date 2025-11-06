@@ -7,6 +7,7 @@
     - "digital currency, e-wallet, qr-code"
     - "o2o, online to offline commerce"
 - Innovation lab excellence, by Richard Turrin
+- House of Huawei, by Eva Dou
 
 ## BATX
 - Baidu, Alibaba, Tencent, Xiaomi
