@@ -1,16 +1,14 @@
 This is a list of countries and major cities I’ve visited in recent years, exploring their history and culture as meaningful milestones.
 
 # Europe
-- Austria 
-    - 2018: Salzburg, Innsbruck    
-- Belgium 
-    - 2024: Bruges, Bruxels
-- France
-    - 2024: Paris, Rouen, Dunkirk
-        - 2 weeks, rental vw golf
-- Germany
+- Austria and Germany
+    - 2018: Salzburg, Innsbruck
     - 2018: Frankfurt, Berlin, Dresden, Munich, Nuremberg, Sttutgart
         - 2 weeks, rental audi a5
+- Belgium and France
+    - 2024: Bruges, Bruxels
+    - 2024: Paris, Rouen, Dunkirk
+        - 2 weeks, rental vw golf    
   
 # North America
 - Canada
