@@ -8,10 +8,11 @@
     - "o2o, online to offline commerce"
 - Innovation lab excellence, by Richard Turrin
 - House of Huawei, by Eva Dou
+- The new China playbook - Beyond Socialism and Capitalism, by Keyu Jin
 
 ## BATX
 - Baidu, Alibaba, Tencent, Xiaomi
-    - WeChat and AliPay
+    - WeChat and AliPay - the main China super-apps
 - Por dentro do Alibaba, by Porter Erisman    
 - Six billion shoppers, by Porter Erisman
 
