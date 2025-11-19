@@ -14,3 +14,6 @@
 - The New Map, by Daniel Yergin
     - Energy and Geopolitics
     - USA, Russia and China new power map.
+
+## Northern Ireland
+- The troubles (subject)
