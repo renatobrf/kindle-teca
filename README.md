@@ -4,7 +4,7 @@
 ## publish mkdocs linux
 - mkdocs build
 - mkdocs -v serve -a localhost:9000
-- mkdocs gh-deploy -v -c -r origin -b gh-pages && rm -rf site
+- mkdocs gh-deploy -v -c -r origin -b gh-pages
 
 ## publish mkdocs win
 - python3 -m mkdocs -v serve -a localhost:9000
@@ -18,3 +18,10 @@
 - source venv/bin/activate (for linux)
 - . venv/scripts/activate (for win)
 - python3 -m venv venv
+
+## troubleshoot
+ssh-keygen -t ed25519 -C "renatobarufi@gmail.com" -f ~/.ssh/id_ed25519 -N ""
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+cat ~/.ssh/id_ed25519.pub   # copy this text to GitHub
+https://github.com/renatobrf/kindle-teca/settings/keys
