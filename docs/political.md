@@ -10,7 +10,7 @@
 
 ## Geopolitical
 - New Cold Wars, by David Sanger
-    - about USA, Russia and China leadership.
+    - about USA, Russia and China relationship.
 - The New Map, by Daniel Yergin
     - Energy and Geopolitics
     - USA, Russia and China new power map.
