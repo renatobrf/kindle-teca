@@ -35,4 +35,5 @@
 
 ## Simon Sinek
 - O jogo infinito (*The inifite game*)
-    - Capacidade de se manter calmo sob pressao.    
+    - Capacidade de se manter calmo sob pressao.
+- Leaders eat last
