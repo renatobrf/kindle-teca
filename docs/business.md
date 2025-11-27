@@ -6,6 +6,7 @@
     - Creativity, empathy, dexterity.
 - AI Superpowers, by Kai-Fu Lee
     - AlphaGo from Google DeepMind.
+    - The thinking game from Google DeepMind.
 - The coming wave, by Mustafa Suleyman
 
 ## Knowledge
