@@ -21,4 +21,9 @@
 - Nuclear fusion power plant (*man-made sun*)
 - Wind and photovoltaic energy 
 - China one belt
-- Electric [cars](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
+
+## Docs
+- New-gen China - steering a smart future, by Miao Xiaojuan
+    - Electric and autonomous [cars.](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
+    - Gene sequence tech and health research.
+    - Winter olympic games.
