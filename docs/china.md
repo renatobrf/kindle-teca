@@ -1,4 +1,5 @@
 # China
+We can look to the people of China as an example of a resilient culture of discipline and continuous self-improvement that has driven rapid advances across industry and technology, offering lessons for better products and processes.
 
 ## Highlights
 - O poder da China, by Ricardo Geromel
@@ -24,6 +25,6 @@
 
 ## Docs
 - New-gen China - steering a smart future, by Miao Xiaojuan
-    - Electric and autonomous [cars.](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
+    - Electric and hi-tech autonomous [cars.](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
     - Gene sequence tech and health research.
     - Winter olympic games.
