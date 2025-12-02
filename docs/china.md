@@ -26,5 +26,7 @@ We can look to the people of China as an example of a resilient culture of disci
 ## Docs
 - New-gen China - steering a smart future, by Miao Xiaojuan
     - Electric and hi-tech autonomous [cars.](https://en.wikipedia.org/wiki/Electric_vehicle_industry_in_China)
-    - Gene sequence tech and health research.
+    - Gene sequence and health research.
     - Winter olympic games.
+- Made in China 2025
+    - Batteries for electric cars, biotechnology and AI.

@@ -11,6 +11,7 @@
 ## Geopolitical
 - New Cold Wars, by David Sanger
     - about USA, Russia and China relationship.
+    - subjects from Ukraine, Taiwan and Iraq.
 - The New Map, by Daniel Yergin
     - Energy and Geopolitics
     - USA, Russia and China new power map.
