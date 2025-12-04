@@ -17,5 +17,5 @@
     - USA, Russia and China new power map.
 
 ## Docs 
-- Northern Ireland - the troubles (between 1960s to 1998).
-- The case of the Philips factory in Piauí in 2007.
+- Northern Ireland - the troubles (between 1960s and 1998).
+- The case of the Philips factory in Brazil-Piauí in 2007.
