@@ -14,6 +14,7 @@ We can look to the people of China as an example of a resilient culture of disci
 ## BATX
 - Baidu, Alibaba, Tencent, Xiaomi
     - WeChat and AliPay - the main China super-apps
+    - Payments dominance means market domain.
 - Por dentro do Alibaba, by Porter Erisman    
 - Six billion shoppers, by Porter Erisman
 
