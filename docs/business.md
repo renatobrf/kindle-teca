@@ -11,7 +11,7 @@
     - Deep Learning – its ability to recognize a pattern, optimize for a specific outcome, make a decision.
     - AI algorithms need three things: big data, computing power, and the work of strong AI algorithm engineers.
 - The coming wave, by Mustafa Suleyman
-    - two core technologies: artificial intelligence and synthetic biology.
+    - Two core technologies: artificial intelligence and synthetic biology.
     - Where there is demand, technology always breaks out, finds traction, and builds users.
 
 ## Knowledge
