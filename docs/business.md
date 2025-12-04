@@ -7,8 +7,7 @@
     - Regulation is always lag behind innovation. 
     - We don't need AIs to destroy us; we have our own arrogance.
 - AI Superpowers, by Kai-Fu Lee
-    - AlphaGo from Google DeepMind.
-    - The thinking game from Google DeepMind.
+    - AlphaGo and The thinking game from Google DeepMind.
     - Deep Learning – its ability to recognize a pattern, optimize for a specific outcome, make a decision.
     - AI algorithms need three things: big data, computing power, and the work of strong AI algorithm engineers.
 - The coming wave, by Mustafa Suleyman
