@@ -16,5 +16,6 @@
     - Energy and Geopolitics
     - USA, Russia and China new power map.
 
-## Northern Ireland
-- The troubles (subject)
+## Docs 
+- Northern Ireland - the troubles (between 1960s to 1998).
+- The case of the Philips factory in Piauí in 2007.
