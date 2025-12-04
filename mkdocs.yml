@@ -1,6 +1,7 @@
 site_name: Project KindleTeca
 nav:
   - Home: 'index.md'
+  - AI: 'ai.md'
   - Business: 'business.md'
   - Corporate: 'corporate.md'
   - Finance: 'finance.md'
