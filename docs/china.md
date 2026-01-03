@@ -8,18 +8,19 @@ We can look to the people of China as an example of a resilient culture of disci
     - "digital currency, e-wallet, qr-code"
     - "o2o, online to offline commerce"
 - Innovation lab excellence, by Richard Turrin
-- House of Huawei, by Eva Dou
 - The new China playbook - Beyond Socialism and Capitalism, by Keyu Jin
 
-## BATX
-- Baidu, Alibaba, Tencent, Xiaomi
-    - WeChat and AliPay - the main China super-apps
-    - Payments dominance means market domain.
+## BATX (*Baidu, Alibaba, Tencent, Xiaomi*)
 - Por dentro do Alibaba, by Porter Erisman    
 - Six billion shoppers, by Porter Erisman
+    - WeChat and AliPay - the main China super-apps
+    - Payments dominance means market domain.
 
-## STEM 
-- Science, Tech, Engineer, Math
+## Other tech companies (*Huawei, Didi, DJI*)
+- House of Huawei, by Eva Dou
+    - Shenzhen as the first SEZ in China, Special Economic Zone.
+
+## STEM (*Science, Tech, Engineer, Math*)
 - Nuclear fusion power plant (*man-made sun*)
 - Wind and photovoltaic energy 
 - China one belt

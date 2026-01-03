@@ -34,6 +34,9 @@
     - estar de corpo e mente no mesmo lugar.
     - não raro, a hipocrisia se transforma em hábito.
 
+## Mario Sergio Cortella
+- Sabedorias para compartilhar
+
 ## Leadership
 - 12 regras para a vida, by Jordan Peterson
 - Fora de serie - [Outliers](https://en.wikipedia.org/wiki/Outliers_(book)), by Malcolm Gladwell
