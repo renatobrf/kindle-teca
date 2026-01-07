@@ -4,8 +4,6 @@
     - "da origem do dinheiro, a emissao de moeda e titulos, ao sistema bancário"
     - "WWII, a conferência de Bretton Woods, e o dolar como moeda mundial"
     - "a inflação e os meios de arrecadação do estado"
-
-## General
 - O mais importante para o investidor, by Howard Marks
 - O homem mais rico da Babilonia, by George Clason
 

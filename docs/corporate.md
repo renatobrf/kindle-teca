@@ -5,6 +5,7 @@
 
 ## Apple
 - Steve Jobs, by Walter Isaacson
+- Tim Cook, by Leander Kahney
 
 ## Disney
 - Onde os sonhos acontecem, by Robert Iger

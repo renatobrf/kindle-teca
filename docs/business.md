@@ -1,6 +1,6 @@
 <p>In this section, I highlight a few titles related to the business world that caught my attention, outlining the content that was discussed either in specific chapters or throughout the entirety of these works.</p>
 
-## Knowledge
+## Highlights
 - Factfulness, by Hans Rosling
     - Decisão baseada em fatos.
 - Originais, by Adam Grant
@@ -10,7 +10,7 @@
 - The geek way, by Andrew McAfee
     - Speed, ownership, science, openness.
 
-## General
+## Knowledge
 - Os inovadores, by Walter Isaacson
     - Ada Lovelace, Alan Turing, Bill Gates, Steve Jobs.
 - A decodificadora (*The code breaker*), by Walter Isaacson
