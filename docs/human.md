@@ -37,6 +37,10 @@
 ## Mario Sergio Cortella
 - Sabedorias para compartilhar
 
+## Augusto Cury
+- O Código da Inteligência
+    - O sentimento é real, e o pensamento é virtual - nunca (ou quase nunca) reflete a realidade do objeto imaginado.
+
 ## Leadership
 - 12 regras para a vida, by Jordan Peterson
 - Fora de serie - [Outliers](https://en.wikipedia.org/wiki/Outliers_(book)), by Malcolm Gladwell
