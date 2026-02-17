@@ -23,6 +23,7 @@
     - Energy and food production, essential materials, globalization.
     - Four pillars of modern civilization: Ammonia, plastic, steel, concrete.
     - I'm not a pessimist or an optimist, I'm a scientist.
+- Permanent Record, by Edward Snowden
 
 ## Simon Sinek
 - O jogo infinito (*The inifite game*)
