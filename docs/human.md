@@ -22,25 +22,6 @@
     - "Armadilhas de alienação e principios da psicologia."
     - "A luta entre dois lobos."
 
-## Leandro Karnal
-- O dilema do porco espinho
-    - "o preço da inteligência é a solidão."
-- O coracao das coisas
-- Crer ou não crer
-
-## Clovis de Barros
-- Projeto de vida
-    - ser feliz é desenhar que o presente continue sempre presente.
-    - estar de corpo e mente no mesmo lugar.
-    - não raro, a hipocrisia se transforma em hábito.
-
-## Mario Sergio Cortella
-- Sabedorias para compartilhar
-
-## Augusto Cury
-- O Código da Inteligência
-    - O sentimento é real, e o pensamento é virtual - nunca (ou quase nunca) reflete a realidade do objeto imaginado.
-
 ## Leadership
 - 12 regras para a vida, by Jordan Peterson
 - Fora de serie - [Outliers](https://en.wikipedia.org/wiki/Outliers_(book)), by Malcolm Gladwell
@@ -49,3 +30,22 @@
 - Principios, by Ray Dalio
 - Vitimas do criterio, by Walter Longo
     - "paralisia por analise ou paralisia da decisao"
+
+## Augusto Cury
+- O Código da Inteligência
+    - O sentimento é real, e o pensamento é virtual - nunca (ou quase nunca) reflete a realidade do objeto imaginado.
+ 
+## Clovis de Barros
+- Projeto de vida
+    - ser feliz é desenhar que o presente continue sempre presente.
+    - estar de corpo e mente no mesmo lugar.
+    - não raro, a hipocrisia se transforma em hábito.
+
+## Leandro Karnal
+- O dilema do porco espinho
+    - "o preço da inteligência é a solidão."
+- O coracao das coisas
+- Crer ou não crer
+
+## Mario Sergio Cortella
+- Sabedorias para compartilhar
