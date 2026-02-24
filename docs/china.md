@@ -19,7 +19,7 @@ We can look to the people of China as an example of a resilient culture of disci
 ## Other tech companies (*Huawei, Didi, DJI*)
 - House of Huawei, by Eva Dou
     - Shenzhen as the first SEZ in China, Special Economic Zone.
-    - Telecom is Huawei core business.
+    - Telecom is the Huawei's core business.
 
 ## STEM (*Science, Tech, Engineer, Math*)
 - Nuclear fusion power plant (*man-made sun*)
