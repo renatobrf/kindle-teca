@@ -9,6 +9,7 @@
 
 ## Morgan Housel
 - A arte de gastar dinheiro
+    - As pequenas coisas: a quantidade de atenção que um problema recebe é inversamente proporcional a sua relevância.
 - A psicologia financeira
 - O mesmo de sempre
     - "vivemos em um mundo de constante mudanças, mas o que nunca muda?"
