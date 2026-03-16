@@ -20,6 +20,7 @@ We can look to the people of China as an example of a resilient culture of disci
 - House of Huawei, by Eva Dou
     - Shenzhen as the first SEZ in China, Special Economic Zone.
     - Telecom is the Huawei's core business.
+    - Everything in Shenzhen is electric.
 
 ## STEM (*Science, Tech, Engineer, Math*)
 - Nuclear fusion power plant (*man-made sun*)
