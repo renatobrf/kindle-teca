@@ -7,3 +7,4 @@ mkdocs-material-extensions
 pathspec
 requests
 requests-toolbelt
+urllib3
