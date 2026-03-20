@@ -19,7 +19,7 @@ This is a list of countries and major cities I’ve visited in recent years, exp
         - 2 weeks, rental toyota corolla
     - 2014: Los Angeles, Las Vegas, Salt Lake City, Portland, San Francisco
         - 3 weeks, rental chevy impala
-    - 2016: New York City, Philadelfia, Washington DC, Pittsburg, Niagara, Albany, Boston
+    - 2016: NYC, Philadelfia, Atlantic City, Washington DC, Pittsburg, Niagara, Albany, Boston
         - 3 weeks , rental nissan altima
     - 2022: Miami, Orlando, Tallahassee, Atlanta
         - 2 weeks, rental vw passat
