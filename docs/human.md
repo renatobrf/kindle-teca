@@ -1,3 +1,5 @@
+Carater e o que voce faz quando ninguem esta vendo.
+
 ## Highlights
 - Mindset, por Carol Dweck
     - "Roma nao foi feita em um só dia"

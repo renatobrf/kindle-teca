@@ -1,0 +1,1 @@
+Os ensinamentos de Deus nao dependem de religiao.
