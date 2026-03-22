@@ -1,4 +1,4 @@
-Carater e o que voce faz quando ninguem esta vendo.
+O perfil de vigilancia vs liberdade - carater e o que voce faz quando ninguem esta vendo. 
 
 ## Highlights
 - Mindset, por Carol Dweck
