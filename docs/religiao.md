@@ -45,7 +45,6 @@ O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de 
 ### Estoicismo
 Filosofia que busca a felicidade e a paz interior através da virtude, racionalidade e aceitação do destino. 
 
-Pilares: A distinção fundamental entre aquilo que podemos controlar, e aquilo que não podemos. 
 A distinção fundamental entre aquilo que podemos controlar, e aquilo que não podemos. 
 
 As quatro virtudes cardeais:  
