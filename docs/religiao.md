@@ -2,6 +2,10 @@ Os ensinamentos de Deus nao dependem de religiao.
 
 ## Catolicismo
 
+A Igreja Católica é a comunidade cristã universal, fundada por Cristo, que une a fé bíblica à tradição apostólica.
+
+Fé em Jesus Cristo: Base do cristianismo.
+
 | Os pecados | mortais | capitais |
 |---|---|---|
 | |Adultério|Soberba (orgulho)|
