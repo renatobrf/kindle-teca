@@ -1,54 +1,11 @@
-Os ensinamentos de Deus nao dependem de religiao.
+# Título
 
-## Catolicismo
+Texto corrigido sobre a religião. A religião é um tema complexo e ao longo da história, muitas vezes, levou a desentendimentos. Este texto fala sobre a importância da religião na vida das pessoas, sua influência e também os aspectos negativos que podem surgir, como o egoísmo, e a necessidade de buscar a paz e o entendimento.
 
-Os pecados mortais:
+## Luxúria
 
-- Adultério 
-- Apostasia, afastamento, renúncia da fé
-- Blasfêmia, insulto religioso
-- Furto 
-- Divórcio 
-- Inveja 
-- Raiva extrema 
-- Homicídio 
-- Fornicação, referido à prostituição. 
-- Feitiçaria 
-- Sacrilégio, retirar algo do seu caráter sagrado. 
-- Suicídio 
-- Perjúrio, violação do juramento. 
-- Estupro 
-- Terrorismo, por uso de violência física ou psicológica. 
+A luxúria é muitas vezes vista de forma negativa, mas é importante compreender suas raízes e suas implicações na sociedade.
 
-Os 7 pecados capitais:
+## Espírita
 
-- Soberba, definida como orgulho excessivo 
-- Avareza, como ganância 
-- Inveja 
-- Ira 
-- Luxuria, pecado associado aos desejos sexuais 
-- Gula 
-- Preguiça 
-
-## Espiritismo
-
-O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de maos dadas.
-
-- O livro dos espiritos, por Allan Kardec.
-  - livro 1: as causas primeiras
-  - livro 2: o mundo espirita ou dos espiritos
-  - livro 3: as leis morais
-  - livro 4: esperanças e consolações 
-
-## Filosofias
-
-### Estoicismo
-Filosofia que busca a felicidade e a paz interior através da virtude, racionalidade e aceitação do destino. 
-
-A distinção fundamental entre aquilo que podemos controlar, e aquilo que não podemos. 
-
-As quatro virtudes cardeais:  
-- sabedoria (compreender o mundo)
-- coragem (encarar as dificuldades)  
-- moderação (equilíbrio)  
-- justiça (integridade nas relações) 
+O espiritismo é uma doutrina que busca compreender a vida após a morte e a evolução do espírito, e deve ser tratado com respeito.
