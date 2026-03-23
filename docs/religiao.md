@@ -5,7 +5,7 @@ Os ensinamentos de Deus nao dependem de religiao.
 | Os pecados | mortais | capitais |
 |---|---|---|
 | |Adultério|Soberba (orgulho)|
-| |Renúncia da fé|Avareza|
+| |Renúncia da fé|Avareza (ganância)|
 | |Insulto religioso|Inveja|
 | |Furto|Ira|
 | |Divórcio|Luxuria|
