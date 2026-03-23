@@ -52,3 +52,7 @@ As quatro virtudes cardeais:
 - coragem (encarar as dificuldades)  
 - moderação (equilíbrio)  
 - justiça (integridade nas relações) 
+
+## Valores
+- O perfil de vigilancia vs liberdade - carater e o que voce faz quando ninguem esta vendo.
+- O ambiente e as pessoas te moldam - cuidado onde vai e com quem anda.
