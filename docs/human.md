@@ -1,5 +1,3 @@
-O perfil de vigilancia vs liberdade - carater e o que voce faz quando ninguem esta vendo. 
-
 ## Highlights
 - Mindset, por Carol Dweck
     - "Roma nao foi feita em um só dia"
@@ -32,6 +30,10 @@ O perfil de vigilancia vs liberdade - carater e o que voce faz quando ninguem es
 - Principios, by Ray Dalio
 - Vitimas do criterio, by Walter Longo
     - "paralisia por analise ou paralisia da decisao"
+
+## Valores
+
+O perfil de vigilancia vs liberdade - carater e o que voce faz quando ninguem esta vendo. 
 
 ## Augusto Cury
 - O Código da Inteligência
