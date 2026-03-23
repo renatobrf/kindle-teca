@@ -6,6 +6,19 @@ A Igreja Católica é a comunidade cristã universal, fundada por Cristo, que un
 
 Fé em Jesus Cristo: Base do cristianismo.
 
+Os 10 mandamentos da Igreja Católica:
+
+1. Amar a Deus sobre todas as coisas.
+2. Não tomar seu santo nome em vão.
+3. Guardar domingos e festas.
+4. Honrar pai e mãe.
+5. Não matar.
+6. Não pecar contra a castidade.
+7. Não furtar.
+8. Não levantar falso testemunho.
+9. Não desejar a mulher do próximo.
+10. Não cobiçar as coisas alheias.
+
 | Os pecados | mortais | capitais |
 |---|---|---|
 | |Adultério|Soberba (orgulho)|
