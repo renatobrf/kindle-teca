@@ -31,10 +31,6 @@
 - Vitimas do criterio, by Walter Longo
     - "paralisia por analise ou paralisia da decisao"
 
-## Valores
-
-O perfil de vigilancia vs liberdade - carater e o que voce faz quando ninguem esta vendo. 
-
 ## Augusto Cury
 - O Código da Inteligência
     - O sentimento é real, e o pensamento é virtual - nunca (ou quase nunca) reflete a realidade do objeto imaginado.
