@@ -2,33 +2,23 @@ Os ensinamentos de Deus nao dependem de religiao.
 
 ## Catolicismo
 
-Os pecados mortais:
-
-- Adultério 
-- Apostasia, afastamento, renúncia da fé
-- Blasfêmia, insulto religioso
-- Furto 
-- Divórcio 
-- Inveja 
-- Raiva extrema 
-- Homicídio 
-- Fornicação, referido à prostituição. 
-- Feitiçaria 
-- Sacrilégio, retirar algo do seu caráter sagrado. 
-- Suicídio 
-- Perjúrio, violação do juramento. 
-- Estupro 
-- Terrorismo, por uso de violência física ou psicológica. 
-
-Os 7 pecados capitais:
-
-- Soberba, definida como orgulho excessivo 
-- Avareza, como ganância 
-- Inveja 
-- Ira 
-- Luxuria, pecado associado aos desejos sexuais 
-- Gula 
-- Preguiça 
+| Os pecados | mortais | capitais |
+|---|---|---|
+| |Adultério|Soberba (orgulho)|
+| |Renúncia da fé|Avareza|
+| |Insulto religioso|Inveja|
+| |Furto|Ira|
+| |Divórcio|Luxuria|
+| |Inveja|Gula|
+| |Raiva extrema|Preguiça|
+| |Homicídio| | 
+| |Prostituição| |
+| |Feitiçaria| | 
+| |Sacrilégio| | 
+| |Suicídio| | 
+| |Violação do juramento| |
+| |Estupro| |
+| |Violência física ou psicológica| |
 
 ## Espiritismo
 
