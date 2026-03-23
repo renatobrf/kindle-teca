@@ -19,23 +19,7 @@ Os 10 mandamentos da Igreja Católica:
 9. Não desejar a mulher do próximo.
 10. Não cobiçar as coisas alheias.
 
-| Os pecados | mortais | capitais |
-|---|---|---|
-| |Adultério|Soberba (orgulho)|
-| |Renúncia da fé|Avareza (ganância)|
-| |Insulto religioso|Inveja|
-| |Furto|Ira|
-| |Divórcio|Luxuria|
-| |Inveja|Gula|
-| |Raiva extrema|Preguiça|
-| |Homicídio| | 
-| |Prostituição| |
-| |Feitiçaria| | 
-| |Sacrilégio| | 
-| |Suicídio| | 
-| |Violação do juramento| |
-| |Estupro| |
-| |Violência física ou psicológica| |
+Os pecados mortais e os 7 pecados capitais.
 
 ## Espiritismo
 
