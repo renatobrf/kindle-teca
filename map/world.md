@@ -7,7 +7,7 @@ This is a list of countries and major cities I’ve visited in recent years, exp
         - 2 weeks, rental audi a5
 - Belgium and France
     - 2024: Bruges, Bruxels
-    - 2024: Paris, Rouen, Dunkirk
+    - 2024: Paris, Giverny, Rouen, Boulogne-sur-Mer, Dunkirk
         - 2 weeks, rental vw golf    
   
 # North America
