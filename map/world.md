@@ -15,13 +15,13 @@ This is a list of countries and major cities I’ve visited in recent years, exp
     - 2017: Toronto, Ottawa, Montreal, Quebec City
         - 2 weeks, rental bmw x5
 - USA
-    - 2013: Orlando, Atlanta, Birmingham, New Orleans
+    - 2013: Orlando, Savannah, Atlanta, Birmingham, New Orleans
         - 2 weeks, rental toyota corolla
     - 2014: Los Angeles, Las Vegas, Salt Lake City, Portland, San Francisco
         - 3 weeks, rental chevy impala
     - 2016: NYC, Philadelfia, Atlantic City, Washington DC, Pittsburg, Niagara, Albany, Boston
         - 3 weeks , rental nissan altima
-    - 2022: Miami, Orlando, Tallahassee, Atlanta
+    - 2022: Miami, Orlando, Tallahassee, Atlanta, St. Augustine
         - 2 weeks, rental vw passat
     - 2025: Las Vegas
         - 1 week, just cabs  
