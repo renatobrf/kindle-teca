@@ -6,7 +6,7 @@ A Igreja Católica é a comunidade cristã universal, fundada por Cristo, que un
 
 Fé em Jesus Cristo: Base do cristianismo.
 
-Os 10 mandamentos da Igreja Católica:
+### Os 10 mandamentos da Igreja Católica:
 
 1. Amar a Deus sobre todas as coisas.
 2. Não tomar seu santo nome em vão.
@@ -19,17 +19,18 @@ Os 10 mandamentos da Igreja Católica:
 9. Não desejar a mulher do próximo.
 10. Não cobiçar as coisas alheias.
 
-Os pecados mortais e os 7 pecados capitais.
+
+Os pecados mortais e os 7 pecados capitais
 
 ## Espiritismo
 
 O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de maos dadas.
 
 - O livro dos espiritos, por Allan Kardec.
-  - livro 1: as causas primeiras
-  - livro 2: o mundo espirita ou dos espiritos
-  - livro 3: as leis morais
-  - livro 4: esperanças e consolações 
+    - livro 1: as causas primeiras
+    - livro 2: o mundo espirita ou dos espiritos
+    - livro 3: as leis morais
+    - livro 4: esperanças e consolações 
 
 ## Filosofias
 
@@ -38,7 +39,8 @@ Filosofia que busca a felicidade e a paz interior através da virtude, racionali
 
 A distinção fundamental entre aquilo que podemos controlar, e aquilo que não podemos. 
 
-As quatro virtudes cardeais:  
+As quatro virtudes cardeais:
+
 - sabedoria (compreender o mundo)
 - coragem (encarar as dificuldades)  
 - moderação (equilíbrio)  
