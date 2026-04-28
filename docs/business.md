@@ -29,3 +29,4 @@
 - O jogo infinito (*The inifite game*)
     - Capacidade de se manter calmo sob pressao.
 - Leaders eat last
+    - "the right thing" in favor of doing "the thing that's right for me."
