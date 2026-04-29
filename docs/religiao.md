@@ -49,3 +49,4 @@ As quatro virtudes cardeais:
 ## Valores
 - O perfil de vigilancia vs liberdade - carater e o que voce faz quando ninguem esta vendo.
 - O ambiente e as pessoas te moldam - cuidado onde vai e com quem anda.
+- Fazer o que 'e correto, acima de, o que eu acho que 'e correto.
