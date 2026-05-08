@@ -30,3 +30,4 @@
     - Capacidade de se manter calmo sob pressao.
 - Leaders eat last
     - "the right thing" in favor of doing "the thing that's right for me."
+    - Leadership is not a license to do less; it is a responsability to do more.
