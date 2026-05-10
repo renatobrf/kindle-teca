@@ -6,6 +6,10 @@ A Igreja Católica é a comunidade cristã universal, fundada por Cristo, que un
 
 Fé em Jesus Cristo: Base do cristianismo.
 
+### O Credo Apostólico
+
+Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria, padeceu sob Pôncio pilatos, foi crucificado, morto e sepultado; desceu a mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus, está sentado a Direita de Deus Pai todo-poderoso, donde há de vir julgar os vivos e os mortos. Creio no Espírito Santo, na santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne, na Vida eterna. Amém!
+
 ### Os 10 mandamentos da Igreja Católica:
 
 1. Amar a Deus sobre todas as coisas.
