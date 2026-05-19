@@ -36,6 +36,26 @@ O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de 
     - livro 3: as leis morais
     - livro 4: esperanças e consolações 
 
+### a Lei de Afinidade ou Sintonia
+
+- O Pensamento como Emissor de Energia
+    - Na visão espírita, o cérebro é um gerador e transmissor de ondas mentais. Tudo no universo vibra em diferentes faixas de energia.
+    - Quando você cultiva um padrão de pensamento (otimismo, gratidão ou, inversamente, pessimismo, mágoa e egoísmo), cria uma "faixa vibratória" ou aura.
+    - Você se conecta automaticamente com energias, encarnados e desencarnados que vibram nessa mesma sintonia.
+- Ação e Influência Espiritual
+    - Atração de energias salutares: Pensamentos de amor, caridade e resignação atraem a simpatia e a assistência de espíritos protetores e benfeitores.
+    - Atração de energias densas: Sentimentos de ódio, vingança, inveja ou pessimismo sintonizam o indivíduo com espíritos sofredores ou obsessores, criando um intercâmbio de fluidos nocivos que pode agravar as dificuldades
+- Ações: O Alinhamento com a Escolha
+    - Seus comportamentos reforçam seus pensamentos.
+    - Agir no bem e exercer a caridade modifica sua frequência energética interior, mudando o que você atrai para si.
+    - Ações egoístas ou destrutivas atraem reciprocidade equivalente do ambiente e das pessoas ao seu redor.
+- A Lei de Causa e Efeito
+    - As experiências, encontros e desafios atuais são reflexos das vibrações e ações geradas no presente e no passado.
+    - Você atrai as circunstâncias necessárias para o seu próprio aprendizado e evolução espiritual.
+- O Amor como a Maior Lei de Atração
+    - Em O Livro dos Espíritos, o Codificador Allan Kardec e os espíritos apontam que a base de todas as leis divinas está no amor ao próximo.
+    - O amor é a mais pura e elevada "lei de atração" do universo, capaz de harmonizar os seres e acelerar o progresso espiritual.
+
 ## Filosofias
 
 ### Estoicismo
