@@ -43,8 +43,10 @@ O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de 
     - Quando você cultiva um padrão de pensamento (otimismo, gratidão ou, inversamente, pessimismo, mágoa e egoísmo), cria uma "faixa vibratória" ou aura.
     - Você se conecta automaticamente com energias, encarnados e desencarnados que vibram nessa mesma sintonia.
 - Ação e Influência Espiritual
-    - Atração de energias salutares: Pensamentos de amor, caridade e resignação atraem a simpatia e a assistência de espíritos protetores e benfeitores.
-    - Atração de energias densas: Sentimentos de ódio, vingança, inveja ou pessimismo sintonizam o indivíduo com espíritos sofredores ou obsessores, criando um intercâmbio de fluidos nocivos que pode agravar as dificuldades
+    - Atração de energias salutares:
+        - Pensamentos de amor, caridade e resignação atraem a simpatia e a assistência de espíritos protetores e benfeitores.
+    - Atração de energias densas:
+        - Sentimentos de ódio, vingança, inveja ou pessimismo sintonizam o indivíduo com espíritos sofredores ou obsessores, criando um intercâmbio de fluidos nocivos que pode agravar as dificuldades.
 - Ações: O Alinhamento com a Escolha
     - Seus comportamentos reforçam seus pensamentos.
     - Agir no bem e exercer a caridade modifica sua frequência energética interior, mudando o que você atrai para si.
