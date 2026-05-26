@@ -2,16 +2,17 @@
 We can look to the people of China as an example of a resilient culture of discipline and continuous self-improvement that has driven rapid advances across industry and technology, offering lessons for better products and processes.
 
 ## Highlights
-- O poder da China, by Ricardo Geromel
-    - "996 work model"
+- Innovation lab excellence, by Richard Turrin
 - Cashless, by Richard Turrin
     - "digital currency, e-wallet, qr-code"
     - "o2o, online to offline commerce"
-- Innovation lab excellence, by Richard Turrin
 - O Brasileiro que decifrou a China, by Theo Santana
+- O poder da China, by Ricardo Geromel
+    - "996 work model"
 - The new China playbook - Beyond Socialism and Capitalism, by Keyu Jin
     - State, economy and financial systems.
     - Technology dictates geopolitical winners and losers.
+    - An impatient nation - China mindset: short, flat and fast.
 
 ## BATX (*Baidu, Alibaba, Tencent, Xiaomi*)
 - Por dentro do Alibaba, by Porter Erisman    
