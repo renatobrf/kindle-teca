@@ -8,6 +8,7 @@ We can look to the people of China as an example of a resilient culture of disci
     - "digital currency, e-wallet, qr-code"
     - "o2o, online to offline commerce"
 - Innovation lab excellence, by Richard Turrin
+- O Brasileiro que decifrou a China, by Theo Santana
 - The new China playbook - Beyond Socialism and Capitalism, by Keyu Jin
     - State, economy and financial systems.
     - Technology dictates geopolitical winners and losers.
