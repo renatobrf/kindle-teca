@@ -3,13 +3,13 @@ nav:
   - Home: 'index.md'
   - AI: 'ai.md'
   - Business: 'business.md'
+  - China: 'china.md'
   - Corporate: 'corporate.md'
   - Finance: 'finance.md'
   - Human: 'human.md'  
   - People: 'people.md'
   - Political: 'political.md'  
-  - Religion: 'religiao.md'
-  - Resilient: 'china.md'
+  - Religion: 'religiao.md'  
   - Startup: 'startup.md'
   
 theme:
