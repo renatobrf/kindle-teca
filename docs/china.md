@@ -9,6 +9,7 @@ We can look to the people of China as an example of a resilient culture of disci
 - O Brasileiro que decifrou a China, by Theo Santana
 - O poder da China, by Ricardo Geromel
     - Visão geral da cultura, economia, governo, metropoles, tecnologia.
+    - Industria e varejo, meios de pagamento, big tech's e suas plataformas.
     - 996 work model.
 - The new China playbook - Beyond Socialism and Capitalism, by Keyu Jin
     - State, economy and financial systems.
