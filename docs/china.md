@@ -4,11 +4,12 @@ We can look to the people of China as an example of a resilient culture of disci
 ## Highlights
 - Innovation lab excellence, by Richard Turrin
 - Cashless, by Richard Turrin
-    - "digital currency, e-wallet, qr-code"
-    - "o2o, online to offline commerce"
+    - Digital currency, e-wallet, qr-code.
+    - O2O, online to offline commerce.
 - O Brasileiro que decifrou a China, by Theo Santana
 - O poder da China, by Ricardo Geromel
-    - "996 work model"
+    - Visão geral da cultura, economia, governo, metropoles, tecnologia.
+    - 996 work model.
 - The new China playbook - Beyond Socialism and Capitalism, by Keyu Jin
     - State, economy and financial systems.
     - Technology dictates geopolitical winners and losers.
