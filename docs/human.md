@@ -33,6 +33,8 @@
 
 ## Augusto Cury
 - O Código da Inteligência
+- Prisioneiros da mente
+- Gerencie suas emoções
     - O sentimento é real, e o pensamento é virtual - nunca (ou quase nunca) reflete a realidade do objeto imaginado.
  
 ## Clovis de Barros
