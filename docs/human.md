@@ -36,6 +36,7 @@
 - Prisioneiros da mente
 - Gerencie suas emoções
     - O sentimento é real, e o pensamento é virtual - nunca (ou quase nunca) reflete a realidade do objeto imaginado.
+    - Atuar como protagonista do seu pensamento e não gravitar na orbita dos pensamentos pertubadores.
  
 ## Clovis de Barros
 - Projeto de vida
