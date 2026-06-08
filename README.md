@@ -20,8 +20,8 @@
 - python3 -m venv venv
 
 ## troubleshoot
-ssh-keygen -t ed25519 -C "renatobarufi@gmail.com" -f ~/.ssh/id_ed25519 -N ""
-eval "$(ssh-agent -s)"
-ssh-add ~/.ssh/id_ed25519
-cat ~/.ssh/id_ed25519.pub   # copy this text to GitHub
-https://github.com/renatobrf/kindle-teca/settings/keys
+- ssh-keygen -t ed25519 -C "renatobarufi@gmail.com" -f ~/.ssh/id_ed25519 -N ""
+- eval "$(ssh-agent -s)"
+- ssh-add ~/.ssh/id_ed25519
+- cat ~/.ssh/id_ed25519.pub   # copy this text to GitHub
+- https://github.com/renatobrf/kindle-teca/settings/keys
