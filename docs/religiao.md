@@ -10,7 +10,7 @@ Fé em Jesus Cristo: Base do cristianismo.
 
 Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria, padeceu sob Pôncio pilatos, foi crucificado, morto e sepultado; desceu a mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus, está sentado a Direita de Deus Pai todo-poderoso, donde há de vir julgar os vivos e os mortos. Creio no Espírito Santo, na santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne, na Vida eterna. Amém!
 
-### Os 10 mandamentos da Igreja Católica:
+### Os 10 mandamentos da Igreja Católica
 
 1. Amar a Deus sobre todas as coisas.
 2. Não tomar seu santo nome em vão.
@@ -23,12 +23,15 @@ Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, 
 9. Não desejar a mulher do próximo.
 10. Não cobiçar as coisas alheias.
 
+### Os pecados mortais e os 7 pecados capitais
 
-Os pecados mortais e os 7 pecados capitais
+### Literatura
+
+- A Biblia em 52 semanas, por Kimberly Moore.
 
 ## Espiritismo
 
-O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de maos dadas.
+O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de maos dadas. A ingratidão como filha do egoismo.
 
 - O livro dos espiritos, por Allan Kardec.
     - livro 1: as causas primeiras
