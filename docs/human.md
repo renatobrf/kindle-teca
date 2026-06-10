@@ -32,6 +32,7 @@
     - "paralisia por analise ou paralisia da decisao"
 
 ## Augusto Cury
+- O Homem mais inteligente da historia
 - O Código da Inteligência
 - Prisioneiros da mente
 - Gerencie suas emoções
