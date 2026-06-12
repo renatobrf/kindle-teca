@@ -15,3 +15,8 @@
 - ```The coming wave, by Mustafa Suleyman```
     - Two core technologies: artificial intelligence and synthetic biology.
     - Where there is demand, technology always breaks out, finds traction, and builds users.
+
+## Knowledge
+- Prompt Engineering Handbook, by Raju Shari
+- ChatGPT Business Mastery, by Indrajit Mukherjee
+- ChatGPT for Profit, by Vitaly Romano
