@@ -1,5 +1,7 @@
 # China
-We can look to the people of China as an example of a resilient culture of discipline and continuous self-improvement that has driven rapid advances across industry and technology, offering lessons for better products and processes. Tradition and modernity come together in China, creating technological products that are transforming the retail, payments, and communications industries.
+We can look to the people of China as an example of a resilient culture of discipline and continuous self-improvement that has driven rapid advances across industry and technology, offering lessons for better products and processes. 
+
+Tradition and modernity come together in China, creating technological products that are transforming the retail, payments, and communications industries.
 
 ## Highlights
 - Innovation lab excellence, by Richard Turrin
