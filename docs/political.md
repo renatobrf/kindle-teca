@@ -19,3 +19,4 @@
 ## Docs 
 - Northern Ireland - the troubles (between 1960s and 1998).
 - The case of the Philips factory in Brazil-Piauí in 2007.
+    - Trap of cheap area in a non-infrastructure place.
