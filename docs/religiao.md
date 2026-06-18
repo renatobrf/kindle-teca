@@ -28,6 +28,7 @@ Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, 
 ### Literatura
 
 - A Biblia em 52 semanas, por Kimberly Moore.
+- O Sermão da Montanha, de Mateus.
 
 ## Espiritismo
 
