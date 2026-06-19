@@ -1,3 +1,5 @@
+I have numerous notes highlighting key insights from the books listed below, which would make it difficult to do justice to their content and the lessons they convey. These works share valuable perspectives from executives and founders of leading technology companies and, without a doubt, contain knowledge that one might otherwise gain from a full postgraduate program or MBA.
+
 ## Amazon
 - As cartas de Bezos, by Steve Anderson
 - A loja de tudo, by Brad Stone
