@@ -1,14 +1,14 @@
-Os ensinamentos de Deus nao dependem de religiao.
+Os ensinamentos de Deus não dependem de religião.
 
 ## Catolicismo
 
 A Igreja Católica é a comunidade cristã universal, fundada por Cristo, que une a fé bíblica à tradição apostólica.
 
-Fé em Jesus Cristo: Base do cristianismo.
+Fé em Jesus Cristo: base do cristianismo.
 
 ### O Credo Apostólico
 
-Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria, padeceu sob Pôncio pilatos, foi crucificado, morto e sepultado; desceu a mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus, está sentado a Direita de Deus Pai todo-poderoso, donde há de vir julgar os vivos e os mortos. Creio no Espírito Santo, na santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne, na Vida eterna. Amém!
+Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, seu único Filho, Nosso Senhor; que foi concebido pelo poder do Espírito Santo; nasceu da Virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado; desceu à mansão dos mortos; ressuscitou ao terceiro dia; subiu aos céus, está sentado à Direita de Deus Pai todo-poderoso, donde há de vir julgar os vivos e os mortos. Creio no Espírito Santo, na santa Igreja Católica, na comunhão dos santos, na remissão dos pecados, na ressurreição da carne, na vida eterna. Amém!
 
 ### Os 10 mandamentos da Igreja Católica
 
@@ -27,18 +27,18 @@ Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, 
 
 ### Literatura
 
-- A Biblia em 52 semanas, por Kimberly Moore.
+- A Bíblia em 52 semanas, por Kimberly Moore.
 - O Sermão da Montanha, de Mateus.
 
 ## Espiritismo
 
-O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de maos dadas. A ingratidão como filha do egoismo.
+O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram de mãos dadas. A ingratidão como filha do egoísmo.
 
-- O livro dos espiritos, por Allan Kardec.
-    - livro 1: as causas primeiras
-    - livro 2: o mundo espirita ou dos espiritos
-    - livro 3: as leis morais
-    - livro 4: esperanças e consolações 
+- O Livro dos Espíritos, por Allan Kardec.
+    - Livro 1: As causas primeiras
+    - Livro 2: O mundo espírita ou dos espíritos
+    - Livro 3: As leis morais
+    - Livro 4: Esperanças e consolações
 
 ### A Lei de Afinidade ou Sintonia
 
@@ -51,7 +51,7 @@ O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de 
         - Pensamentos de amor, caridade e resignação atraem a simpatia e a assistência de espíritos protetores e benfeitores.
     - Atração de energias densas:
         - Sentimentos de ódio, vingança, inveja ou pessimismo sintonizam o indivíduo com espíritos sofredores ou obsessores, criando um intercâmbio de fluidos nocivos que pode agravar as dificuldades.
-- Ações: O Alinhamento com a Escolha
+- Ações: o alinhamento com a escolha
     - Seus comportamentos reforçam seus pensamentos.
     - Agir no bem e exercer a caridade modifica sua frequência energética interior, mudando o que você atrai para si.
     - Ações egoístas ou destrutivas atraem reciprocidade equivalente do ambiente e das pessoas ao seu redor.
@@ -59,24 +59,24 @@ O egoismo como o pai de todos os males. O orgulho e o egoismo sempre andaram de 
     - As experiências, encontros e desafios atuais são reflexos das vibrações e ações geradas no presente e no passado.
     - Você atrai as circunstâncias necessárias para o seu próprio aprendizado e evolução espiritual.
 - O Amor como a Maior Lei de Atração
-    - Em O Livro dos Espíritos, o Codificador Allan Kardec e os espíritos apontam que - a base de todas as leis divinas está no amor ao próximo.
+    - Em O Livro dos Espíritos, o codificador Allan Kardec e os espíritos apontam que a base de todas as leis divinas está no amor ao próximo.
     - O amor é a mais pura e elevada "lei de atração" do universo, capaz de harmonizar os seres e acelerar o progresso espiritual.
 
 ## Filosofias
 
 ### Estoicismo
-Filosofia que busca a felicidade e a paz interior através da virtude, racionalidade e aceitação do destino. 
+Filosofia que busca a felicidade e a paz interior através da virtude, racionalidade e aceitação do destino.
 
-A distinção fundamental entre aquilo que podemos controlar, e aquilo que não podemos. 
+A distinção fundamental entre aquilo que podemos controlar e aquilo que não podemos.
 
 As quatro virtudes cardeais:
 
 - sabedoria (compreender o mundo)
-- coragem (encarar as dificuldades)  
-- moderação (equilíbrio)  
-- justiça (integridade nas relações) 
+- coragem (encarar as dificuldades)
+- moderação (equilíbrio)
+- justiça (integridade nas relações)
 
 ## Valores
-- O perfil de vigilancia vs liberdade - carater e o que voce faz quando ninguem esta vendo.
-- O ambiente e as pessoas te moldam - cuidado onde vai e com quem anda.
-- Fazer o que 'e correto, acima de, o que eu acho que 'e correto.
+- O perfil de vigilância vs liberdade — caráter e o que você faz quando ninguém está vendo.
+- O ambiente e as pessoas te moldam — cuidado onde vai e com quem anda.
+- Fazer o que é correto, acima do que eu acho que é correto.
