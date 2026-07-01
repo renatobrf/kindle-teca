@@ -1,5 +1,14 @@
 # My Reading Collection
 
+```
+██╗  ██╗██╗███╗  ██╗██████╗ ██╗     ███████╗████████╗███████╗ ██████╗ █████╗
+██║ ██╔╝██║████╗ ██║██╔══██╗██║     ██╔════╝╚══██╔══╝██╔════╝██╔════╝██╔══██╗
+█████╔╝ ██║██╔██╗██║██║  ██║██║     █████╗     ██║   █████╗  ██║     ███████║
+██╔═██╗ ██║██║╚████║██║  ██║██║     ██╔══╝     ██║   ██╔══╝  ██║     ██╔══██║
+██║  ██╗██║██║ ╚███║██████╔╝███████╗███████╗   ██║   ███████╗╚██████╗██║  ██║
+╚═╝  ╚═╝╚═╝╚═╝  ╚══╝╚═════╝ ╚══════╝╚══════╝   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+```
+
 This collection was born out of my interest in understanding the world from different perspectives — from the history of major technology companies to the fundamentals of business and finance that shape our society.
 
 Along the way, I realized that reading was not only a way to gather information but also an opportunity for **self-knowledge.** Many of these books helped me improve my decision-making, deal more effectively with daily pressure, and broaden the way I approach both personal and professional challenges.
