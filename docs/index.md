@@ -1,5 +1,3 @@
-# My Reading Collection
-
 ```
 ██╗  ██╗██╗███╗  ██╗██████╗ ██╗     ███████╗████████╗███████╗ ██████╗ █████╗
 ██║ ██╔╝██║████╗ ██║██╔══██╗██║     ██╔════╝╚══██╔══╝██╔════╝██╔════╝██╔══██╗
@@ -21,7 +19,7 @@ Even so, the habit of seeking out new books has never stopped. The collection ke
 
 Renato Barufi - [renatobarufi@gmail.com](mailto:renatobarufi@gmail.com)
 
-## Scribbles and Notes
+# Scribbles and Notes
 
 My reading method is dedicated and consistent — usually one chapter per day, every day of the week. I always keep a highlighter at hand to mark the points that catch my attention, and for each book I open a new text document for notes, organized according to the same chapter structure used by the author.
 
