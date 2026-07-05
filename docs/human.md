@@ -33,6 +33,8 @@
 
 ## Augusto Cury
 - O Homem mais inteligente da historia
+    - GEEI - gasto de energia emocional inútil.
+    - Ruminar perdas e frustrações e sofrer por antecipação destroem o presente: o único tempo em que é possivel ser feliz.
 - O Código da Inteligência
 - Prisioneiros da mente
 - Gerencie suas emoções
