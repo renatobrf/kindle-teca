@@ -4,3 +4,5 @@ Using AI and platform to create market focused games, exploring usability and ga
 ## Pygame in 8 and 16 Bits
 
 ## Retro ASCII Art Composite
+
+## GPU for LLM purposes
