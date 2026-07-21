@@ -21,3 +21,8 @@
 ## Eric Ries
 - A Startup Enxuta (*The Lean Startup*)
 - O Estilo Startup (*The Startup Way*)
+
+## References
+- Stanford University, https://www.stanford.edu/
+    - Events in Stanford, https://events.stanford.edu/
+- Berkeley University, https://www.berkeley.edu/
