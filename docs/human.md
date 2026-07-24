@@ -31,27 +31,29 @@
 - Vitimas do criterio, by Walter Longo
     - "paralisia por analise ou paralisia da decisao"
 
-## Augusto Cury
-- O Homem mais inteligente da historia
-    - GEEI - gasto de energia emocional inútil.
-    - Ruminar perdas e frustrações e sofrer por antecipação destroem o presente: o único tempo em que é possivel ser feliz.
+## 📖 Augusto Cury
+- Série
+    - O Homem mais inteligente da história
+        - GEEI - gasto de energia emocional inútil.
+        - Ruminar perdas e frustrações e sofrer por antecipação destroem o presente: o único tempo em que é possivel ser feliz.
+    - O Homem mais feliz da história
 - O Código da Inteligência
 - Prisioneiros da mente
 - Gerencie suas emoções
     - O sentimento é real, e o pensamento é virtual - nunca (ou quase nunca) reflete a realidade do objeto imaginado.
     - Atuar como protagonista do seu pensamento e não gravitar na orbita dos pensamentos perturbadores.
  
-## Clovis de Barros
+## 📖 Clovis de Barros
 - Projeto de vida
     - ser feliz é desenhar que o presente continue sempre presente.
     - estar de corpo e mente no mesmo lugar.
     - não raro, a hipocrisia se transforma em hábito.
 
-## Leandro Karnal
+## 📖 Leandro Karnal
 - O dilema do porco espinho
     - "o preço da inteligência é a solidão."
 - O coracao das coisas
 - Crer ou não crer
 
-## Mario Sergio Cortella
+## 📖 Mario Sergio Cortella
 - Sabedorias para compartilhar
