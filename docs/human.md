@@ -32,13 +32,15 @@
     - "paralisia por analise ou paralisia da decisao"
 
 ## 📖 Augusto Cury
-- Série
+- Série (sobre Marco Polo)
+    - O Futuro da humanidade
+    - Armadilhas da mente
     - O Homem mais inteligente da história
         - GEEI - gasto de energia emocional inútil.
         - Ruminar perdas e frustrações e sofrer por antecipação destroem o presente: o único tempo em que é possivel ser feliz.
     - O Homem mais feliz da história
 - O Código da Inteligência
-- Prisioneiros da mente
+- Prisioneiros da mente (os cárceres mentais)
 - Gerencie suas emoções
     - O sentimento é real, e o pensamento é virtual - nunca (ou quase nunca) reflete a realidade do objeto imaginado.
     - Atuar como protagonista do seu pensamento e não gravitar na orbita dos pensamentos perturbadores.
