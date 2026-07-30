@@ -1,10 +1,11 @@
 ## Highlights
 - Showman (*Zelensky*), by Simon Shuster
-- A revolucao dos bichos, Orwell
-- 1984, Orwell
+- author Orwell
+    - A revolucao dos bichos
+    - 1984
 
 ## WWII and Cold War
-- autor Giles Milton
+- author Giles Milton
     - D-Day
     - Russian Roulette
     - Checkmate in Berlin    
