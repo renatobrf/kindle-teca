@@ -4,9 +4,12 @@
 - 1984, Orwell
 
 ## WWII and Cold War
-- Checkmate in Berlin, by Giles Milton
-- Ministry of ungentlemanly warfare, by Giles Milton
-- D-Day, by Giles Milton
+- autor Giles Milton
+    - D-Day
+    - Russian Roulette
+    - Checkmate in Berlin    
+    - Ministry of ungentlemanly warfare
+    - Fascinating footnotes from history
 
 ## Geopolitical
 - New Cold Wars, by David Sanger
