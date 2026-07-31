@@ -6,9 +6,10 @@
 - Dopamina, por Daniel Lieberman
     - "o erro de previsão de recompensa"
     - "o ciclo da dependência, a nicotina, alcool, indulgência"      
-- Rapido e devagar, by Daniel Kahneman
-    - "o raciocínio rapido e o pensamento analítico"
-- Ruido, by Daniel Kahneman
+- author Daniel Kahneman
+    - Ruido
+    - Rapido e devagar
+        - "o raciocínio rapido e o pensamento analítico"    
 - Nexus, by Yuval Noah
     - "Chamamos a nossa espécie de homo sapiens – o humano sábio, mas é discutível até que ponto temos feito jus ao nome."
     - "Apesar da quantidade espantosa de informação a nossa disposição, somos tão suscetíveis a fantasia e a ilusão quanto nossos antigos ancestrais."
