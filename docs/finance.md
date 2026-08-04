@@ -7,6 +7,11 @@
 - O mais importante para o investidor, by Howard Marks
 - O homem mais rico da Babilonia, by George Clason
 
+## Gustavo Cerbasi
+- A riqueza da vida simples
+- Dinheiro, segredos de quem tem
+- Casais inteligentes enriquecem juntos
+
 ## Morgan Housel
 - A arte de gastar dinheiro
     - As pequenas coisas: a quantidade de atenção que um problema recebe é inversamente proporcional a sua relevância.
