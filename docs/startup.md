@@ -1,6 +1,6 @@
 <p>In this session, I highlight stories of Brazilian startups that could be ranked among the most creative in the world, given the limited resources available and the challenges of doing business in this country.</p>
 
-## 🎨 Highlights
+## 🎨 Highlights (BR)
 - Ponto de inflexão (*Wise Up*), by Flavio Augusto
 - Organizacoes Infinitas, by Junior Borneli
 - O cientista e o executivo (*iFood*), by Diego Barreto
