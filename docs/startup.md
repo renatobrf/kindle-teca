@@ -22,6 +22,11 @@
 - A Startup Enxuta (*The Lean Startup*)
 - O Estilo Startup (*The Startup Way*)
 
+## 📖 Gene Kim
+- O Projeto Fênix
+- O Projeto Unicórnio
+- Manual de DevOps
+
 ## 🔗 References
 - [Stanford University](https://www.stanford.edu/)
     - [Events in Stanford](https://events.stanford.edu/)
