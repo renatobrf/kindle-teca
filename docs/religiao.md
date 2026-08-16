@@ -39,6 +39,7 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
     - Livro 2: O mundo espírita ou dos espíritos
     - Livro 3: As leis morais
     - Livro 4: Esperanças e consolações
+- O Evangelho Segundo o Espiritismo, de Allan Kardec.
 
 ### A Lei de Afinidade ou Sintonia
 
