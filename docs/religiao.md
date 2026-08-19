@@ -34,12 +34,16 @@ Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, 
 
 O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram de mãos dadas. A ingratidão como filha do egoísmo.
 
-- O Livro dos Espíritos, por Allan Kardec.
+### As obras do Pentateuco Kardequiano
+- O Livro dos Espíritos
     - Livro 1: As causas primeiras
     - Livro 2: O mundo espírita ou dos espíritos
     - Livro 3: As leis morais
     - Livro 4: Esperanças e consolações
-- O Evangelho Segundo o Espiritismo, de Allan Kardec.
+- O Evangelho Segundo o Espiritismo
+- O livro dos Médiuns
+- O Céu e o Inferno
+- A Gênese
 
 ### A Lei de Afinidade ou Sintonia
 
