@@ -20,6 +20,9 @@
 - Prompt Engineering Handbook, by Raju Shari
 - ChatGPT Business Mastery, by Indrajit Mukherjee
 - ChatGPT for Profit, by Vitaly Romano
+    - begin on: context, task, audience and format.
+    - prompts like "create a script for a 1-minute video on the benefits for..."
+    - KDP - kindle direct publishing, to create and distribute e-books.
 
 ## Docs
 - AlphaGo and The thinking game from Google DeepMind
