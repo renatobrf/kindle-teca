@@ -1,10 +1,11 @@
 ## Highlights
 - Showman (*Zelensky*), by Simon Shuster
 - author Orwell
-    - A revolucao dos bichos
+    - A revolução dos bichos
     - 1984
 
 ## WWI and Treaty of Versailles
+- 1929: Por dentro da maior crise da história de Wall Street, por Andrew Ross
 
 ## WWII and Cold War
 - author Giles Milton
