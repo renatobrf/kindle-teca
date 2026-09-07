@@ -6,6 +6,7 @@
 
 ## WWI and Treaty of Versailles
 - 1929: Por dentro da maior crise da história de Wall Street, por Andrew Ross
+    - clássico de Ernest Hemingway: como você faliu? Gradualmente, depois de repente. 
 
 ## WWII and Cold War
 - author Giles Milton
