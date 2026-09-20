@@ -38,9 +38,11 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
 - O Livro dos Espíritos
     - Livro 1: As causas primeiras
     - Livro 2: O mundo espírita ou dos espíritos
+        - A classificação dos mundos e dos espíritos em ordens e classes.
     - Livro 3: As leis morais
     - Livro 4: Esperanças e consolações
 - O Evangelho Segundo o Espiritismo
+    - Os bem aventurados.
 - O livro dos Médiuns
 - O Céu e o Inferno
 - A Gênese
