@@ -22,6 +22,7 @@
     - "Ter objetivos claros, foco no longo prazo, ser persistente, aceitar derrotas momentâneas."
     - "Armadilhas de alienação e principios da psicologia."
     - "A luta entre dois lobos."
+- O poder do agora, por Eckhart Tolle
 
 ## Leadership
 - 12 regras para a vida, by Jordan Peterson
