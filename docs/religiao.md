@@ -40,11 +40,10 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
 - Livro 3: As leis morais
     - A lei Divina, de Adoração, do Trabalho, de Reprodução, de Conservação, de Destruição, de Sociedade, do Progresso, de Igualdade, de Liberdade, de Justiça, e a Perfeição Moral. 
 - Livro 4: Esperanças e consolações
-    - Penas e Gozos terrestres.
-    - Penas e Gozos futuros.
+    - Penas e Gozos terrestres e futuros.    
   
 ### 2.1.2. O Evangelho Segundo o Espiritismo
-    - Os bem aventurados.
+- Os bem aventurados.
 
 ### 2.1.3. O livro dos Médiuns
 
