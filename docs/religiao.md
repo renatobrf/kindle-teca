@@ -40,6 +40,7 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
     - Livro 2: O mundo espírita ou dos espíritos
         - A classificação dos mundos e dos espíritos em ordens e classes.
     - Livro 3: As leis morais
+        - A lei Divina, de Adoração, do Trabalho, de Reprodução, de Conservação, de Destruição, de Sociedade, do Progresso, de Igualdade, de Liberdade, de Justiça, e a Perfeição Moral. 
     - Livro 4: Esperanças e consolações
 - O Evangelho Segundo o Espiritismo
     - Os bem aventurados.
