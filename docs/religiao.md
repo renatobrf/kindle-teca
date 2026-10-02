@@ -37,6 +37,7 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
 ### As obras do Pentateuco Kardequiano
 - O Livro dos Espíritos
     - Livro 1: As causas primeiras
+        - Deus, o Universo, a Criação, e o Principio Vital.
     - Livro 2: O mundo espírita ou dos espíritos
         - A classificação dos mundos e dos espíritos em ordens e classes.
     - Livro 3: As leis morais
