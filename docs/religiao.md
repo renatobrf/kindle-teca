@@ -43,7 +43,7 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
     - Penas e Gozos terrestres e futuros.    
   
 ### 2.1.2. O Evangelho Segundo o Espiritismo
-- Os bem aventurados.
+- Os bem aventurados, os aflitos, os pobres de espírito, os puros de coração, os pacíficos, os misericordiosos.
 
 ### 2.1.3. O livro dos Médiuns
 
