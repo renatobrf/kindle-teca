@@ -6,10 +6,6 @@
 - Dopamina, por Daniel Lieberman
     - "o erro de previsão de recompensa"
     - "o ciclo da dependência, a nicotina, alcool, indulgência"      
-- author Daniel Kahneman
-    - Ruido
-    - Rapido e devagar
-        - "o raciocínio rapido e o pensamento analítico"    
 - Nexus, by Yuval Noah
     - "Chamamos a nossa espécie de homo sapiens – o humano sábio, mas é discutível até que ponto temos feito jus ao nome."
     - "Apesar da quantidade espantosa de informação a nossa disposição, somos tão suscetíveis a fantasia e a ilusão quanto nossos antigos ancestrais."
@@ -23,6 +19,7 @@
     - "Armadilhas de alienação e principios da psicologia."
     - "A luta entre dois lobos."
 - O poder do agora, por Eckhart Tolle
+    - O passado e o futuro ocultam Deus da nossa vida, se livre de ambos.
 
 ## Leadership
 - 12 regras para a vida, by Jordan Peterson
@@ -52,6 +49,11 @@
     - ser feliz é desenhar que o presente continue sempre presente.
     - estar de corpo e mente no mesmo lugar.
     - não raro, a hipocrisia se transforma em hábito.
+
+## 📖 Daniel Kahneman
+- Ruido
+- Rapido e devagar    
+    - "o raciocínio rapido e o pensamento analítico"
 
 ## 📖 Leandro Karnal
 - O dilema do porco espinho
