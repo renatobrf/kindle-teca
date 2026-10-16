@@ -1,20 +1,23 @@
 ## Highlights
 - Showman (*Zelensky*), by Simon Shuster
-- author Orwell
-    - A revolução dos bichos
-    - 1984
+
+### 📖 George Orwell
+- A revolução dos bichos
+- 1984
 
 ## WWI and Treaty of Versailles
 - 1929: Por dentro da maior crise da história de Wall Street, por Andrew Ross
     - clássico de Ernest Hemingway: como você faliu? Gradualmente, depois de repente. 
+    - um ciclo de alavancagem de venda financiada de ações baseada na hipotese de valorização constante dos ativos.
 
 ## WWII and Cold War
-- author Giles Milton
-    - D-Day
-    - Russian Roulette
-    - Checkmate in Berlin    
-    - Ministry of ungentlemanly warfare
-    - Fascinating footnotes from history
+
+### 📖 Giles Milton
+- D-Day
+- Russian Roulette
+- Checkmate in Berlin    
+- Ministry of ungentlemanly warfare
+- Fascinating footnotes from history
 
 ## Geopolitical
 - New Cold Wars, by David Sanger
