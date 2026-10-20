@@ -1,5 +1,11 @@
 ## Highlights
 - Showman (*Zelensky*), by Simon Shuster
+- New Cold Wars, by David Sanger
+    - about USA, Russia and China relationship.
+    - subjects from Ukraine, Taiwan and Iraq.
+- The New Map, by Daniel Yergin
+    - Energy and Geopolitics
+    - USA, Russia and China new power map.
 
 ### 📖 George Orwell
 - A revolução dos bichos
@@ -18,14 +24,6 @@
 - Checkmate in Berlin    
 - Ministry of ungentlemanly warfare
 - Fascinating footnotes from history
-
-## Geopolitical
-- New Cold Wars, by David Sanger
-    - about USA, Russia and China relationship.
-    - subjects from Ukraine, Taiwan and Iraq.
-- The New Map, by Daniel Yergin
-    - Energy and Geopolitics
-    - USA, Russia and China new power map.
 
 ## Docs 
 - Northern Ireland - the troubles (between 1960s and 1998).
