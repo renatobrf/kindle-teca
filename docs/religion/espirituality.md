@@ -1,6 +1,13 @@
 # 2. Espiritismo
 O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram de mãos dadas. A ingratidão como filha do egoísmo.
 
+## Os cinco princípios básicos do espiritismo: 
+- Deus 
+- Imortalidade da alma 
+- Comunicabilidade com os espíritos 
+- Reencarnação 
+- Evolução 
+
 ## 2.1. As obras do Pentateuco Kardequiano
 
 ### 2.1.1. O Livro dos Espíritos
