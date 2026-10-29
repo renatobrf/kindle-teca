@@ -11,14 +11,14 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
 ## 2.1. As obras do Pentateuco Kardequiano
 
 ### 2.1.1. O Livro dos Espíritos
-- Livro 1: As causas primeiras
+- As causas primeiras
     - Deus, o Universo, a Criação, e o Principio Vital.
-- Livro 2: O mundo espírita ou dos espíritos
+- O mundo espírita ou dos espíritos
     - A classificação dos mundos e dos espíritos em ordens e classes.
     - A encarnação, a morte, a reencarnação, a vida espirita, a emancipação da alma, a intervenção dos espiritos, ocupações, missões e os tres reinos.
-- Livro 3: As leis morais
+- As leis morais
     - A lei Divina, de Adoração, do Trabalho, de Reprodução, de Conservação, de Destruição, de Sociedade, do Progresso, de Igualdade, de Liberdade, de Justiça, e a Perfeição Moral. 
-- Livro 4: Esperanças e consolações
+- Esperanças e consolações
     - Penas e Gozos terrestres e futuros.    
   
 ### 2.1.2. O Evangelho Segundo o Espiritismo
