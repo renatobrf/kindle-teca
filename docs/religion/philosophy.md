@@ -12,7 +12,7 @@ A distinção fundamental entre aquilo que podemos controlar e aquilo que não p
 - justiça (integridade nas relações)
 
 ## 4. Valores
-- O perfil de vigilância vs liberdade — caráter e o que você faz quando ninguém está vendo.
-- O ambiente e as pessoas te moldam — cuidado onde vai e com quem anda.
+- O perfil de vigilância vs liberdade - caráter e o que você faz quando ninguém está vendo.
+- O ambiente e as pessoas te moldam - cuidado onde vai e com quem anda.
 - Fazer o que é correto, acima do que eu acho que é correto.
-- O homem é o autor do seu próprio destino - lei do retorno.
+- O homem é o autor do seu próprio destino - a lei do retorno.
