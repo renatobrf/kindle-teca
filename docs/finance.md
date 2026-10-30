@@ -1,5 +1,6 @@
 ## Highlights
 - 18 principios para voce evoluir, por Charles Mendlowicz
+- As 18 leis do dinheiro, por Charles Mendlowicz
 - Em nome do povo, por Bruno Perini
     - "da origem do dinheiro, a emissao de moeda e titulos, ao sistema bancário"
     - "WWII, a conferência de Bretton Woods, e o dolar como moeda mundial"
