@@ -55,3 +55,7 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
 ### 2.2.5. O Amor como a Maior Lei de Atração
 - Em O Livro dos Espíritos, o codificador Allan Kardec e os espíritos apontam que a base de todas as leis divinas está no amor ao próximo.
 - O amor é a mais pura e elevada "lei de atração" do universo, capaz de harmonizar os seres e acelerar o progresso espiritual.
+
+## 2.3. Coleção A vida no mundo espiritual
+Por André Luiz e Chico Xavier
+- Ação e Reação
