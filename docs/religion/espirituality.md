@@ -57,5 +57,6 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
 - O amor é a mais pura e elevada "lei de atração" do universo, capaz de harmonizar os seres e acelerar o progresso espiritual.
 
 ## 2.3. Coleção A vida no mundo espiritual
-Por André Luiz e Chico Xavier
+Por André Luiz e Chico Xavier.
 - Ação e Reação
+- Sinal Verde
