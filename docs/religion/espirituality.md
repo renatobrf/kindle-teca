@@ -58,8 +58,10 @@ O egoísmo como o pai de todos os males. O orgulho e o egoísmo sempre andaram d
 
 ## 2.3. Coleção A vida no mundo espiritual
 Por André Luiz e Chico Xavier.
+
 - Ação e Reação
 - Sinal Verde
 
 Por Emmanuel e Chico Xavier.
+
 - Pensamento e Vida
