@@ -1,12 +1,14 @@
 ## Highlights
-- 18 principios para voce evoluir, por Charles Mendlowicz
-- As 18 leis do dinheiro, por Charles Mendlowicz
+- O mais importante para o investidor, by Howard Marks
+- O homem mais rico da Babilonia, by George Clason
 - Em nome do povo, por Bruno Perini
     - "da origem do dinheiro, a emissao de moeda e titulos, ao sistema bancário"
     - "WWII, a conferência de Bretton Woods, e o dolar como moeda mundial"
     - "a inflação e os meios de arrecadação do estado"
-- O mais importante para o investidor, by Howard Marks
-- O homem mais rico da Babilonia, by George Clason
+
+## Charles Mendlowicz
+- 18 principios para voce evoluir
+- As 18 leis do dinheiro
 
 ## Gustavo Cerbasi
 - A riqueza da vida simples
