@@ -25,6 +25,10 @@
     - I'm not a pessimist or an optimist, I'm a scientist.
 - Permanent Record, by Edward Snowden
 
+## Luciano Santos
+- Seja egoísta com sua carreira
+- Carreira é ação
+
 ## Simon Sinek
 - O jogo infinito (*The inifite game*)
     - Capacidade de se manter calmo sob pressao.
