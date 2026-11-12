@@ -65,3 +65,4 @@ Por André Luiz e Chico Xavier.
 Por Emmanuel e Chico Xavier.
 
 - Pensamento e Vida
+- Vinha de luz
