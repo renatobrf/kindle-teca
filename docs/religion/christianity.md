@@ -23,3 +23,12 @@ Creio em Deus Pai, todo-poderoso, criador do Céu e da Terra e em Jesus Cristo, 
 ## 1.4. Literatura
 - A Bíblia em 52 semanas, por Kimberly Moore.
 - O Sermão da Montanha, de Mateus.
+    - cap 5, as Bem-aventuranças
+        - Felizes os pobres em espírito, porque deles é o Reino dos Céus.
+        - Felizes os que choram, porque serão consolados.
+        - Felizes os mansos, porque possuirão a terra.
+        - Felizes os que têm fome e sede de justiça, porque serão saciados.
+        - Felizes os misericordiosos, porque alcançarão misericórdia.
+        - Felizes os puros de coração, porque verão a Deus.
+        - Felizes os promotores da paz / pacificadores, porque serão chamados filhos de Deus.
+        - Felizes os perseguidos por causa da justiça, porque deles é o Reino dos Céus.
