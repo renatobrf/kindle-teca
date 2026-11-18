@@ -6,14 +6,6 @@ In simple words, Artificial Intelligence is the primary tool for research and wo
     - Where there is demand, technology always breaks out, finds traction, and builds users.
 - I am not a robot, by Joanna Stern
 
-## Knowledge
-- Prompt Engineering Handbook, by Raju Shari
-- ChatGPT Business Mastery, by Indrajit Mukherjee
-- ChatGPT for Profit, by Vitaly Romano
-    - begin on: context, task, audience and format.
-    - prompts like "create a script for a 1-minute video on the benefits for..."
-    - KDP - kindle direct publishing, to create and distribute e-books.
-
 ## Google DeepMind
 - The infinity machine, by Sebastian Mallaby
 - AlphaGo and The thinking game (Youtube)
@@ -29,3 +21,11 @@ In simple words, Artificial Intelligence is the primary tool for research and wo
     - AI algorithms need three things: big data, computing power, and the work of strong AI algorithm engineers.
     - The four waves of AI:
         - Internet, Business, Perception and Autonomous AI.
+
+## Knowledge
+- Prompt Engineering Handbook, by Raju Shari
+- ChatGPT Business Mastery, by Indrajit Mukherjee
+- ChatGPT for Profit, by Vitaly Romano
+    - begin on: context, task, audience and format.
+    - prompts like "create a script for a 1-minute video on the benefits for..."
+    - KDP - kindle direct publishing, to create and distribute e-books.
