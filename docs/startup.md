@@ -23,6 +23,7 @@
 - O Estilo Startup (*The Startup Way*)
 
 ## 📖 Gene Kim
+- Vibe Coding
 - O Projeto Fênix
 - O Projeto Unicórnio
 - Manual de DevOps
